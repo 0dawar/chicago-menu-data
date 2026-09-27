@@ -1,1 +1,17 @@
-
+{
+  "menuVersion": 2,
+  "categories": {
+    "starters": [
+      {
+        "id": "01",
+        "nameEn": "Dynamite Wings",
+        "nameFa": "بال‌های داینمایت",
+        "descriptionEn": "Fried chicken wings tossed in dynamite sauce",
+        "descriptionFa": "بال‌های مرغ سرخ‌شده با ساس داینمایت",
+        "price": 310,
+        "image": "01.jpg",
+        "available": true
+      }
+    ]
+  }
+}
