@@ -1,5 +1,5 @@
 {
-  "menuVersion": 5,
+  "menuVersion": 6,
   "categories": {
     "starters": [
       {
@@ -10,6 +10,162 @@
         "descriptionFa": "بال‌های مرغ سرخ‌شده با ساس داینمایت",
         "price": 310,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/01.jpg",
+        "available": true
+      },
+      {
+        "id": "02",
+        "nameEn": "Spicy Chicken Wings",
+        "nameFa": "بال‌های مرغ تند",
+        "descriptionEn": "Golden-fried chicken wings coated in our spicy house sauce",
+        "descriptionFa": "بال‌های مرغ طلایی و سرخ‌شده با ساس تند مخصوص",
+        "price": 300,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/02.jpg",
+        "available": true
+      },
+      {
+        "id": "03",
+        "nameEn": "Fried Chicken Wings",
+        "nameFa": "بال‌های مرغ سرخ‌شده",
+        "descriptionEn": "Golden-fried chicken wings served with honey mustard sauce",
+        "descriptionFa": "بال‌های مرغ طلایی و سرخ‌شده، همراه با ساس عسل و خردل",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/03.jpg",
+        "available": true
+      },
+      {
+        "id": "04",
+        "nameEn": "BBQ Grilled Chicken Wings",
+        "nameFa": "بال‌های مرغ گریل‌شده باربیکیو",
+        "descriptionEn": "Juicy marinated chicken wings, flame-grilled and served with smoky BBQ sauce",
+        "descriptionFa": "بال‌های مرغ آبدار و مزه‌دارشده، گریل‌شده روی شعله و همراه با ساس دودی باربیکیو",
+        "price": 310,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/04.jpg",
+        "available": true
+      },
+      {
+        "id": "05",
+        "nameEn": "Dynamite Chicken Bites",
+        "nameFa": "تکه‌های مرغ داینمایت",
+        "descriptionEn": "Crispy chicken bites tossed in dynamite sauce",
+        "descriptionFa": "تکه‌های مرغ ترد با ساس داینمایت",
+        "price": 300,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/05.jpg",
+        "available": true
+      },
+      {
+        "id": "06",
+        "nameEn": "Stuffed Chicken Strips",
+        "nameFa": "استریپس مرغ مغزدار",
+        "descriptionEn": "Golden fried stuffed chicken strip served with tartar sauce",
+        "descriptionFa": "استریپس مرغ مغزدار، طلایی و سرخ‌شده، همراه با ساس تارتار",
+        "price": 380,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/06.jpg",
+        "available": true
+      },
+      {
+        "id": "07",
+        "nameEn": "Fish Fingers",
+        "nameFa": "فینگر ماهی",
+        "descriptionEn": "Golden fried fish fingers served with tartar sauce",
+        "descriptionFa": "فینگرهای ماهی طلایی و سرخ‌شده، همراه با ساس تارتار",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/07.jpg",
+        "available": true
+      },
+      {
+        "id": "08",
+        "nameEn": "Chicken Finger",
+        "nameFa": "فینگر مرغ",
+        "descriptionEn": "Golden fried chicken fingers served with honey mustard sauce",
+        "descriptionFa": "فینگرهای مرغ طلایی و سرخ‌شده، همراه با ساس عسل و خردل",
+        "price": 320,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/08.jpg",
+        "available": true
+      },
+      {
+        "id": "09",
+        "nameEn": "Chicken Cheese Balls",
+        "nameFa": "توپک‌های مرغ و پنیر",
+        "descriptionEn": "Chicken balls stuffed with cheese served with four sauces",
+        "descriptionFa": "توپک‌های مرغ مغزدار با پنیر، همراه با چهار نوع ساس",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/09.jpg",
+        "available": true
+      },
+      {
+        "id": "10",
+        "nameEn": "Chicken or Fish Popcorn",
+        "nameFa": "پاپ‌کورن مرغ یا ماهی",
+        "descriptionEn": "Your choice of chicken or fish popcorn served with tartar sauce and honey mustard sauce",
+        "descriptionFa": "پاپ‌کورن مرغ یا ماهی به انتخاب شما، همراه با ساس تارتار و ساس عسل و خردل",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/10.jpg",
+        "available": true
+      },
+      {
+        "id": "11",
+        "nameEn": "Chicken Nuggets",
+        "nameFa": "ناگت مرغ",
+        "descriptionEn": "Tender chicken nuggets served with honey mustard and special sauce",
+        "descriptionFa": "ناگت‌های نرم و لذیذ مرغ، همراه با ساس عسل و خردل و ساس مخصوص",
+        "price": 250,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/11.jpg",
+        "available": true
+      },
+      {
+        "id": "12",
+        "nameEn": "Buttermilk Fried Chicken – 2 Piece",
+        "nameFa": "مرغ سوخاری باترمیلک – ۲ تکه",
+        "descriptionEn": "Marinated crispy buttermilk fried chicken 2 pieces served with 2 sauces and fries",
+        "descriptionFa": "۲ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
+        "price": 240,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/12.jpg",
+        "available": true
+      },
+      {
+        "id": "13",
+        "nameEn": "Buttermilk Fried Chicken – 4 Piece",
+        "nameFa": "مرغ سوخاری باترمیلک – ۴ تکه",
+        "descriptionEn": "Marinated crispy buttermilk fried chicken 4 pieces served with 2 sauces and fries",
+        "descriptionFa": "۴ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
+        "price": 450,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/13.jpg",
+        "available": true
+      },
+      {
+        "id": "14",
+        "nameEn": "Buttermilk Fried Chicken – 8 Piece",
+        "nameFa": "مرغ سوخاری باترمیلک – ۸ تکه",
+        "descriptionEn": "Marinated crispy buttermilk fried whole chicken served with 2 sauces and fries",
+        "descriptionFa": "۸ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
+        "price": 820,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/14.jpg",
+        "available": true
+      },
+      {
+        "id": "15",
+        "nameEn": "French Fries – Regular",
+        "nameFa": "چپس – معمولی",
+        "price": 120,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/15.jpg",
+        "available": true
+      },
+      {
+        "id": "16",
+        "nameEn": "Zinger Fries – Spicy & Non-Spicy",
+        "nameFa": "چپس زینگر – تند و معمولی",
+        "price": 250,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/16.jpg",
+        "available": true
+      },
+      {
+        "id": "16.1",
+        "nameEn": "Loaded Fries",
+        "nameFa": "چپس ویژه",
+        "descriptionEn": "Your choice of beef or chicken",
+        "descriptionFa": "با گوشت گوساله یا مرغ به انتخاب شما",
+        "price": 300,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/16-1.jpg",
         "available": true
       }
     ]
