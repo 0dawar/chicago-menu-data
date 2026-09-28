@@ -1,5 +1,5 @@
 {
-  "menuVersion": 7,
+  "menuVersion": 8,
   "categories": {
     "starters": [
       {
@@ -209,6 +209,79 @@
         "descriptionFa": "سوپ سنتی تایلندی با مرغ کبابی، برنج سرخ‌شده، مرچ سبز و زنجبیل",
         "price": 130,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/soups/20.jpg",
+        "available": true
+      }
+    ],
+
+      "salads": [
+      {
+        "id": "21",
+        "nameEn": "Chicken Caesar Salad",
+        "nameFa": "سالاد سیزر مرغ",
+        "descriptionEn": "Our classic Caesar salad with grilled chicken, olives, tomato wedges, and homemade croutons",
+        "descriptionFa": "سالاد سیزر مخصوص ما با مرغ گریل‌شده، زیتون، برش‌های گوجه و نان تست تُرد خانگی",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/21.jpg",
+        "available": true
+      },
+      {
+        "id": "22",
+        "nameEn": "Jacket Potato Salad",
+        "nameFa": "سالاد کچالو شکم‌پر",
+        "descriptionEn": "Stuffed potato with chicken, cheese, iceberg lettuce",
+        "descriptionFa": "کچالوی شکم‌پر با مرغ، پنیر و کاهوی آیسبرگ",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/22.jpg",
+        "available": true
+      },
+      {
+        "id": "23",
+        "nameEn": "Chicago Special Salad",
+        "nameFa": "سالاد مخصوص شیکاگو",
+        "descriptionEn": "Fresh fruit, vegetables, macaroni and grilled chicken",
+        "descriptionFa": "میوه‌های تازه، سبزیجات، ماکارونی و مرغ گریل‌شده",
+        "price": 400,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/23.jpg",
+        "available": true
+      },
+      {
+        "id": "24",
+        "nameEn": "Greek Salad Rustic Style",
+        "nameFa": "سالاد یونانی به سبک روستایی",
+        "descriptionEn": "Mixed green salad with feta cheese, lemon & olive oil dressing",
+        "descriptionFa": "ترکیبی از سبزیجات تازه با پنیر فتا و ساس لیمو و روغن زیتون",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/24.jpg",
+        "available": true
+      },
+      {
+        "id": "25",
+        "nameEn": "Macaroni Chicken Salad",
+        "nameFa": "سالاد ماکارونی و مرغ",
+        "descriptionEn": "Macaroni, chicken, onion, capsicum, tomato and sweet corn",
+        "descriptionFa": "ماکارونی، مرغ، پیاز، مرچ دلمه‌ای، گوجه و ذرت شیرین",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/25.jpg",
+        "available": true
+      },
+      {
+        "id": "26",
+        "nameEn": "Grilled Chicken Salad",
+        "nameFa": "سالاد مرغ گریل‌شده",
+        "descriptionEn": "Julienne-cut carrots, cabbage and cucumbers mixed with grilled chicken slices, served with olive oil dressing",
+        "descriptionFa": "هویج، کلم و خیار خلالی با برش‌های مرغ گریل‌شده، همراه با ساس روغن زیتون",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/26.jpg",
+        "available": true
+      },
+      {
+        "id": "27",
+        "nameEn": "Pomegranate Salad",
+        "nameFa": "سالاد انار",
+        "descriptionEn": "Pomegranate, feta cheese, lemon, olive oil, honey and green baby lettuce",
+        "descriptionFa": "انار، پنیر فتا، لیمو، روغن زیتون، عسل و کاهوی سبز تازه",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/27.jpg",
         "available": true
       }
     ]
