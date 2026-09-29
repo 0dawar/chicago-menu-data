@@ -1,5 +1,5 @@
 {
-  "menuVersion": 9,
+  "menuVersion": 10,
   "categories": {
     "starters": [
       {
@@ -282,6 +282,119 @@
         "descriptionFa": "انار، پنیر فتا، لیمو، روغن زیتون، عسل و کاهوی سبز تازه",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/27.jpg",
+        "available": true
+      }
+    ],
+
+      "burgers-and-sandwiches": [
+      {
+        "id": "28",
+        "nameEn": "Chicago Special Burger",
+        "nameFa": "برگر مخصوص شیکاگو",
+        "descriptionEn": "Triple decker burger, fried fish, grilled chicken, beef patty, cheese with fries",
+        "descriptionFa": "برگر سه‌طبقه با ماهی سرخ‌شده، مرغ گریل‌شده، پَتی گوشت گوساله و پنیر، همراه با چپس",
+        "price": 550,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/28.jpg",
+        "available": true
+      },
+      {
+        "id": "29",
+        "nameEn": "Lone Star Beef Burger",
+        "nameFa": "برگر گوشت لون استار",
+        "descriptionEn": "Your choice of grilled beef or chicken patty, cheese with special sauce and fries",
+        "descriptionFa": "پَتی گوشت گوساله یا مرغ گریل‌شده به انتخاب شما، همراه با پنیر، ساس مخصوص و چپس",
+        "price": 300,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/29.jpg",
+        "available": true
+      },
+      {
+        "id": "30",
+        "nameEn": "French Special Burger",
+        "nameFa": "برگر مخصوص فرانسوی",
+        "descriptionEn": "Golden fried chicken breast stuffed with cheese and herbs, topped with sliced cheese",
+        "descriptionFa": "سینه مرغ طلایی و سرخ‌شده، مغزدار با پنیر و سبزیجات معطر، همراه با برش‌های پنیر",
+        "price": 380,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/30.jpg",
+        "available": true
+      },
+      {
+        "id": "31",
+        "nameEn": "Crispy Fish Burger",
+        "nameFa": "برگر ماهی ترد",
+        "descriptionEn": "Golden fried fish topped with cheese, tomato, onion and sauce",
+        "descriptionFa": "ماهی طلایی و سرخ‌شده، همراه با پنیر، گوجه، پیاز و ساس",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/31.jpg",
+        "available": true
+      },
+      {
+        "id": "32",
+        "nameEn": "Pizza Zinger Burger",
+        "nameFa": "برگر پیتزا زینگر",
+        "descriptionEn": "Crispy fried zinger chicken topped with pizza chicken and cheese",
+        "descriptionFa": "مرغ زینگر ترد و سرخ‌شده، همراه با مرغ پیتزا و پنیر",
+        "price": 450,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/32.jpg",
+        "available": true
+      },
+      {
+        "id": "33",
+        "nameEn": "Chicken Zinger Burger",
+        "nameFa": "برگر مرغ زینگر",
+        "descriptionEn": "Crispy fried zinger chicken topped with cheese and sauce",
+        "descriptionFa": "مرغ زینگر ترد و سرخ‌شده، همراه با پنیر و ساس",
+        "price": 320,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/33.jpg",
+        "available": true
+      },
+      {
+        "id": "34",
+        "nameEn": "Cheese Lava Burger",
+        "nameFa": "برگر لاوا پنیر",
+        "descriptionEn": "Your choice of beef or chicken served with cheese lava sauce",
+        "descriptionFa": "با گوشت گوساله یا مرغ به انتخاب شما، همراه با ساس لاوا پنیر",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/34.jpg",
+        "available": true
+      },
+      {
+        "id": "35",
+        "nameEn": "Chicken Crunch Burger",
+        "nameFa": "برگر کرانچ مرغ",
+        "descriptionEn": "Crispy boneless fried chicken topped with sauce and cheese",
+        "descriptionFa": "مرغ بدون استخوان ترد و سرخ‌شده، همراه با ساس و پنیر",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/35.jpg",
+        "available": true
+      },
+      {
+        "id": "36",
+        "nameEn": "Grilled Steak Burger",
+        "nameFa": "برگر استیک گریل‌شده",
+        "descriptionEn": "Your choice of grilled chicken or beef, cheese and special sauce",
+        "descriptionFa": "مرغ یا گوشت گوساله گریل‌شده به انتخاب شما، همراه با پنیر و ساس مخصوص",
+        "price": 380,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/36.jpg",
+        "available": true
+      },
+      {
+        "id": "37",
+        "nameEn": "Triple Decker Sandwich",
+        "nameFa": "ساندویچ سه‌طبقه",
+        "descriptionEn": "Grilled boneless chicken breast, pepperoni, eggs and cheese, tomato, onion, lettuce with sauce",
+        "descriptionFa": "سینه مرغ بدون استخوان گریل‌شده، پپرونی، تخم‌مرغ و پنیر، گوجه، پیاز و کاهو، همراه با ساس",
+        "price": 380,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/37.jpg",
+        "available": true
+      },
+      {
+        "id": "38",
+        "nameEn": "Crunch Sandwich",
+        "nameFa": "ساندویچ کرانچ",
+        "descriptionEn": "Crispy fried chicken, cheese with tomato, onion, lettuce and sauce",
+        "descriptionFa": "مرغ ترد و سرخ‌شده، پنیر، گوجه، پیاز و کاهو، همراه با ساس",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/38.jpg",
         "available": true
       }
     ]
