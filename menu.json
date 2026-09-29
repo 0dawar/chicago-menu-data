@@ -1,5 +1,5 @@
 {
-  "menuVersion": 10,
+  "menuVersion": 11,
   "categories": {
     "starters": [
       {
@@ -397,6 +397,583 @@
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/38.jpg",
         "available": true
       }
+    ],
+
+      "paninis-and-doner": [
+      {
+        "id": "39",
+        "nameEn": "BBQ Chicken Panini",
+        "nameFa": "پانینی مرغ باربیکیو",
+        "descriptionEn": "Grilled chicken with BBQ sauce and cheese",
+        "descriptionFa": "مرغ گریل‌شده با ساس باربیکیو و پنیر",
+        "price": 320,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/39.jpg",
+        "available": true
+      },
+      {
+        "id": "40",
+        "nameEn": "Chicken Jalapeño Panini",
+        "nameFa": "پانینی مرغ هالاپینیو",
+        "descriptionEn": "Fried boneless chicken breast, tomato and cheese",
+        "descriptionFa": "سینه مرغ بدون استخوان سرخ‌شده، گوجه و پنیر",
+        "price": 320,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/40.jpg",
+        "available": true
+      },
+      {
+        "id": "41",
+        "nameEn": "Roast Beef Panini",
+        "nameFa": "پانینی روست بیف",
+        "descriptionEn": "Roast beef, mushroom and cheese",
+        "descriptionFa": "گوشت گوساله بریان، سمارق و پنیر",
+        "price": 400,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/41.jpg",
+        "available": true
+      },
+      {
+        "id": "42",
+        "nameEn": "Chicago Special Panini",
+        "nameFa": "پانینی مخصوص شیکاگو",
+        "descriptionEn": "Semi-dried tomatoes, your choice of grilled chicken or beef, fried egg and cheese",
+        "descriptionFa": "گوجه نیمه‌خشک، مرغ یا گوشت گوساله گریل‌شده به انتخاب شما، تخم‌مرغ سرخ‌شده و پنیر",
+        "price": 450,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/42.jpg",
+        "available": true
+      },
+      {
+        "id": "43",
+        "nameEn": "Philly Steak & Cheese Panini",
+        "nameFa": "پانینی فیلی استیک و پنیر",
+        "descriptionEn": "Char-grilled beef slices topped with cheese and honey mustard sauce",
+        "descriptionFa": "برش‌های گوشت گوساله کباب‌شده روی آتش، همراه با پنیر و ساس عسل و خردل",
+        "price": 400,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/43.jpg",
+        "available": true
+      },
+      {
+        "id": "44",
+        "nameEn": "Chicago Special Doner",
+        "nameFa": "دونر مخصوص شیکاگو",
+        "descriptionEn": "Your choice of mixed doner kebab meats, beef or chicken, onion, tomato, fresh lettuce and red cabbage, served with 3 signature sauces",
+        "descriptionFa": "گوشت دونر مخلوط، گوشت گوساله یا مرغ به انتخاب شما، پیاز، گوجه، کاهوی تازه و کلم سرخ، همراه با ۳ ساس مخصوص",
+        "price": 450,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/44.jpg",
+        "available": true
+      },
+      {
+        "id": "45",
+        "nameEn": "German Doner Kebab",
+        "nameFa": "دونر کباب آلمانی",
+        "descriptionEn": "Your choice of doner kebab meats, chicken or beef, fresh lettuce, onion, tomato, red cabbage, served with 3 signature sauces",
+        "descriptionFa": "گوشت دونر مرغ یا گوساله به انتخاب شما، کاهوی تازه، پیاز، گوجه و کلم سرخ، همراه با ۳ ساس مخصوص",
+        "price": 400,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/45.jpg",
+        "available": true
+      },
+      {
+        "id": "46",
+        "nameEn": "American Doner Kebab",
+        "nameFa": "دونر کباب امریکایی",
+        "descriptionEn": "Your choice of doner meats, chicken or beef, fresh lettuce, onion, tomato, red cabbage, served with 3 signature sauces",
+        "descriptionFa": "گوشت دونر مرغ یا گوساله به انتخاب شما، کاهوی تازه، پیاز، گوجه و کلم سرخ، همراه با ۳ ساس مخصوص",
+        "price": 400,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/46.jpg",
+        "available": true
+      }
+    ],
+
+      "chicago-grill-steaks": [
+      {
+        "id": "47",
+        "nameEn": "Chicago Special Steak",
+        "nameFa": "استیک مخصوص شیکاگو",
+        "descriptionEn": "Marinated beef steak stuffed with mushroom, jalapeño and cheese served with special sauce",
+        "descriptionFa": "استیک گوشت گوساله مزه‌دارشده، مغزدار با سمارق، هالاپینیو و پنیر، همراه با ساس مخصوص",
+        "price": 1100,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/47.jpg",
+        "available": true
+      },
+      {
+        "id": "48",
+        "nameEn": "French Onion Steak",
+        "nameFa": "استیک پیاز فرانسوی",
+        "descriptionEn": "Marinated char-grilled beef steak topped with pepper sauce, grilled onions and cheese",
+        "descriptionFa": "استیک گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس فلفل، پیاز گریل‌شده و پنیر",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/48.jpg",
+        "available": true
+      },
+      {
+        "id": "49",
+        "nameEn": "Wild Shiitake Mushroom Steak",
+        "nameFa": "استیک سمارق شیتاکه",
+        "descriptionEn": "Char-grilled beef fillet served with shiitake mushroom sauce and caramelized onions",
+        "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با ساس سمارق شیتاکه و پیاز کاراملی‌شده",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/49.jpg",
+        "available": true
+      },
+      {
+        "id": "50",
+        "nameEn": "Twin Steak",
+        "nameFa": "استیک تویین",
+        "descriptionEn": "Grilled marinated beef fillet served with creamy mushroom sauce and pepper sauce",
+        "descriptionFa": "فیله گوشت گوساله گریل‌شده و مزه‌دارشده، همراه با ساس خامه‌ای سمارق و ساس فلفل",
+        "price": 900,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/50.jpg",
+        "available": true
+      },
+      {
+        "id": "51",
+        "nameEn": "Cowboy Steak",
+        "nameFa": "استیک کاوبای",
+        "descriptionEn": "Prime cut beef steak topped with eggs and cheese",
+        "descriptionFa": "استیک گوشت گوساله با برش ممتاز، همراه با تخم‌مرغ و پنیر",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/51.jpg",
+        "available": true
+      },
+      {
+        "id": "52",
+        "nameEn": "Classic Mushroom Steak",
+        "nameFa": "استیک کلاسیک سمارق",
+        "descriptionEn": "Char-grilled beef fillet served with creamy mushroom sauce",
+        "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/52.jpg",
+        "available": true
+      },
+      {
+        "id": "53",
+        "nameEn": "Smoked BBQ Steak",
+        "nameFa": "استیک باربیکیو دودی",
+        "descriptionEn": "Marinated char-grilled beef fillet served with smoked BBQ sauce",
+        "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس دودی باربیکیو",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/53.jpg",
+        "available": true
+      },
+      {
+        "id": "54",
+        "nameEn": "Hawaiian Steak",
+        "nameFa": "استیک هاوایی",
+        "descriptionEn": "Char-grilled marinated beef fillet topped with creamy mushroom sauce, grilled pineapple and cheese",
+        "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق، آناناس گریل‌شده و پنیر",
+        "price": 880,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/54.jpg",
+        "available": true
+      },
+      {
+        "id": "55",
+        "nameEn": "Cilantro Steak",
+        "nameFa": "استیک گشنیز",
+        "descriptionEn": "Char-grilled marinated beef topped with pepperoni, mushroom, black olives, tomato sauce and cheese",
+        "descriptionFa": "گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با پپرونی، سمارق، زیتون سیاه، ساس گوجه و پنیر",
+        "price": 880,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/55.jpg",
+        "available": true
+      },
+      {
+        "id": "56",
+        "nameEn": "American Steak",
+        "nameFa": "استیک امریکایی",
+        "descriptionEn": "Char-grilled beef fillet topped with onion, mushroom and special sauce",
+        "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با پیاز، سمارق و ساس مخصوص",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/56.jpg",
+        "available": true
+      },
+      {
+        "id": "57",
+        "nameEn": "Chicago Pepper Steak",
+        "nameFa": "استیک فلفلی شیکاگو",
+        "descriptionEn": "Marinated char-grilled beef fillet topped with pepper sauce",
+        "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس فلفل",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/57.jpg",
+        "available": true
+      }
+    ],
+
+      "grill-chicken-steak": [
+      {
+        "id": "58",
+        "nameEn": "Chicago Special Chicken Steak",
+        "nameFa": "استیک مرغ مخصوص شیکاگو",
+        "descriptionEn": "Marinated boneless chicken breast stuffed with mushroom, cheese and herbs, topped with creamy cheese sauce",
+        "descriptionFa": "سینه مرغ بدون استخوان، مزه‌دارشده و مغزدار با سمارق، پنیر و سبزیجات معطر، همراه با ساس خامه‌ای پنیر",
+        "price": 900,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/58.jpg",
+        "available": true
+      },
+      {
+        "id": "59",
+        "nameEn": "Mushroom Tarragon Chicken Steak",
+        "nameFa": "استیک مرغ سمارق و ترخون",
+        "descriptionEn": "Char-grilled marinated chicken breast topped with mushroom tarragon sauce",
+        "descriptionFa": "سینه مرغ مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس سمارق و ترخون",
+        "price": 750,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/59.jpg",
+        "available": true
+      },
+      {
+        "id": "60",
+        "nameEn": "American Chicken Steak",
+        "nameFa": "استیک مرغ امریکایی",
+        "descriptionEn": "Grilled chicken breast topped with onion, mushroom and special sauce",
+        "descriptionFa": "سینه مرغ گریل‌شده، همراه با پیاز، سمارق و ساس مخصوص",
+        "price": 750,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/60.jpg",
+        "available": true
+      },
+      {
+        "id": "61",
+        "nameEn": "Hawaiian Chicken Steak",
+        "nameFa": "استیک مرغ هاوایی",
+        "descriptionEn": "Char-grilled chicken breast topped with creamy mushroom sauce, grilled pineapple and cheese",
+        "descriptionFa": "سینه مرغ گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق، آناناس گریل‌شده و پنیر",
+        "price": 800,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/61.jpg",
+        "available": true
+      },
+      {
+        "id": "62",
+        "nameEn": "Florida Fire Chicken Steak",
+        "nameFa": "استیک مرغ فلوریدا فایر",
+        "descriptionEn": "Marinated grilled chicken breast topped with capsicum, black olives and creamy cheese sauce",
+        "descriptionFa": "سینه مرغ گریل‌شده و مزه‌دارشده، همراه با مرچ دلمه‌ای، زیتون سیاه و ساس خامه‌ای پنیر",
+        "price": 800,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/62.jpg",
+        "available": true
+      },
+      {
+        "id": "63",
+        "nameEn": "New York Chicken Steak",
+        "nameFa": "استیک مرغ نیویورک",
+        "descriptionEn": "Char-grilled chicken breast topped with peppercorn sauce",
+        "descriptionFa": "سینه مرغ گریل‌شده روی زغال، همراه با ساس فلفل سیاه",
+        "price": 750,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/63.jpg",
+        "available": true
+      },
+      {
+        "id": "64",
+        "nameEn": "Cilantro Chicken Steak",
+        "nameFa": "استیک مرغ گشنیز",
+        "descriptionEn": "Char-grilled marinated chicken breast topped with tomato sauce, black olives, mushroom, pepperoni and cheese",
+        "descriptionFa": "سینه مرغ مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس گوجه، زیتون سیاه، سمارق، پپرونی و پنیر",
+        "price": 780,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/64.jpg",
+        "available": true
+      }
+    ],
+
+      "chicago-pizza": [
+      {
+        "id": "65",
+        "nameEn": "Chicago Special Pizza",
+        "nameFa": "پیتزا مخصوص شیکاگو",
+        "descriptionEn": "Dough topped with roasted beef, grilled chicken, Alfredo chicken, sausage, mushroom, capsicum and cheese",
+        "descriptionFa": "خمیر پیتزا با گوشت گوساله بریان، مرغ گریل‌شده، مرغ آلفردو، ساسچ، سمارق، مرچ دلمه‌ای و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 320 },
+          { "label": "M", "price": 550 },
+          { "label": "L", "price": 720 },
+          { "label": "F", "price": 950 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/65.jpg",
+        "available": true
+      },
+      {
+        "id": "66",
+        "nameEn": "Jamaican Pizza",
+        "nameFa": "پیتزا جامائیکایی",
+        "descriptionEn": "Dough topped with Jamaican chicken, black olives, sweet corn, pizza sauce and cheese",
+        "descriptionFa": "خمیر پیتزا با مرغ جامائیکایی، زیتون سیاه، ذرت شیرین، ساس پیتزا و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 300 },
+          { "label": "M", "price": 500 },
+          { "label": "L", "price": 700 },
+          { "label": "F", "price": 900 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/66.jpg",
+        "available": true
+      },
+      {
+        "id": "67",
+        "nameEn": "Creamy Chicken Pizza",
+        "nameFa": "پیتزا مرغ خامه‌ای",
+        "descriptionEn": "Dough topped with creamy chicken, black olives, bell pepper, onion, creamy sauce and cheese",
+        "descriptionFa": "خمیر پیتزا با مرغ خامه‌ای، زیتون سیاه، مرچ دلمه‌ای، پیاز، ساس خامه‌ای و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 310 },
+          { "label": "M", "price": 520 },
+          { "label": "L", "price": 720 },
+          { "label": "F", "price": 900 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/67.jpg",
+        "available": true
+      },
+      {
+        "id": "68",
+        "nameEn": "Roast Beef Pizza",
+        "nameFa": "پیتزا روست بیف",
+        "descriptionEn": "Dough topped with roast beef, mushroom, black olives, jalapeño, pizza sauce and cheese",
+        "descriptionFa": "خمیر پیتزا با گوشت گوساله بریان، سمارق، زیتون سیاه، هالاپینیو، ساس پیتزا و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 340 },
+          { "label": "M", "price": 550 },
+          { "label": "L", "price": 730 },
+          { "label": "F", "price": 920 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/68.jpg",
+        "available": true
+      },
+      {
+        "id": "69",
+        "nameEn": "Flavors Pizza",
+        "nameFa": "پیتزا چهار مزه",
+        "descriptionEn": "Customer choice: any 4 flavors in 1 pizza",
+        "descriptionFa": "انتخاب شما از هر ۴ مزه در یک پیتزا",
+        "priceOptions": [
+          { "label": "S", "price": 350 },
+          { "label": "M", "price": 580 },
+          { "label": "L", "price": 770 },
+          { "label": "F", "price": 930 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/69.jpg",
+        "available": true
+      },
+      {
+        "id": "70",
+        "nameEn": "Pepperoni and Cheese Pizza",
+        "nameFa": "پیتزا پپرونی و پنیر",
+        "descriptionEn": "Dough topped with pizza sauce, pepperoni, black olives, capsicum, onion and cheese",
+        "descriptionFa": "خمیر پیتزا با ساس پیتزا، پپرونی، زیتون سیاه، مرچ دلمه‌ای، پیاز و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 280 },
+          { "label": "M", "price": 480 },
+          { "label": "L", "price": 650 },
+          { "label": "F", "price": 800 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/70.jpg",
+        "available": true
+      },
+      {
+        "id": "71",
+        "nameEn": "Cheese Pizza",
+        "nameFa": "پیتزا پنیر",
+        "descriptionEn": "Dough topped with pizza sauce, cheese and herbs",
+        "descriptionFa": "خمیر پیتزا با ساس پیتزا، پنیر و سبزیجات معطر",
+        "priceOptions": [
+          { "label": "S", "price": 250 },
+          { "label": "M", "price": 450 },
+          { "label": "L", "price": 580 },
+          { "label": "F", "price": 770 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/71.jpg",
+        "available": true
+      },
+      {
+        "id": "72",
+        "nameEn": "Vegetarian Pizza",
+        "nameFa": "پیتزا سبزیجات",
+        "descriptionEn": "Dough topped with tomato, capsicum, mushroom, black olives, sweet corn, jalapeño, pizza sauce and cheese",
+        "descriptionFa": "خمیر پیتزا با گوجه، مرچ دلمه‌ای، سمارق، زیتون سیاه، ذرت شیرین، هالاپینیو، ساس پیتزا و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 250 },
+          { "label": "M", "price": 450 },
+          { "label": "L", "price": 580 },
+          { "label": "F", "price": 770 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/72.jpg",
+        "available": true
+      },
+      {
+        "id": "73",
+        "nameEn": "Crown Crust Pizza — Thick Only",
+        "nameFa": "پیتزا کراون کراست — خمیر ضخیم",
+        "descriptionEn": "Scrumptious pizza with a yummy blend of grilled chicken, onion, capsicum & special sauce",
+        "descriptionFa": "پیتزای لذیذ با ترکیبی خوشمزه از مرغ گریل‌شده، پیاز، مرچ دلمه‌ای و ساس مخصوص",
+        "priceOptions": [
+          { "label": "M", "price": 650 },
+          { "label": "L", "price": 880 },
+          { "label": "F", "price": 1020 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/73.jpg",
+        "available": true
+      },
+      {
+        "id": "74",
+        "nameEn": "BBQ Chicken Pizza",
+        "nameFa": "پیتزا مرغ باربیکیو",
+        "descriptionEn": "Dough topped with chicken, onion, capsicum, black olives, sweet corn and cheese",
+        "descriptionFa": "خمیر پیتزا با مرغ، پیاز، مرچ دلمه‌ای، زیتون سیاه، ذرت شیرین و پنیر",
+        "priceOptions": [
+          { "label": "S", "price": 350 },
+          { "label": "M", "price": 550 },
+          { "label": "L", "price": 750 },
+          { "label": "F", "price": 920 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/74.jpg",
+        "available": true
+      },
+      {
+        "id": "75",
+        "nameEn": "Stuffed Crust Pizza — Thick Only",
+        "nameFa": "پیتزا با خمیر مغزدار — خمیر ضخیم",
+        "descriptionEn": "Dough topped with cheese, chicken, capsicum, onion, green olives, sausage and special sauce",
+        "descriptionFa": "خمیر پیتزا با پنیر، مرغ، مرچ دلمه‌ای، پیاز، زیتون سبز، ساسچ و ساس مخصوص",
+        "priceOptions": [
+          { "label": "M", "price": 650 },
+          { "label": "L", "price": 880 },
+          { "label": "F", "price": 1020 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/75.jpg",
+        "available": true
+      },
+      {
+        "id": "76",
+        "nameEn": "Hawaiian Pizza",
+        "nameFa": "پیتزا هوایین",
+        "descriptionEn": "Dough topped with chicken, cheese, onion, capsicum, black olives and pineapples",
+        "descriptionFa": "خمیر پیتزا با مرغ، پنیر، پیاز، مرچ دلمه‌ای، زیتون سیاه و آناناس",
+        "priceOptions": [
+          { "label": "S", "price": 350 },
+          { "label": "M", "price": 550 },
+          { "label": "L", "price": 750 },
+          { "label": "F", "price": 920 }
+        ],
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/76.jpg",
+        "available": true
+      }
+    ],
+
+      "fish-corner": [
+      {
+        "id": "77",
+        "nameEn": "Fish & Chips",
+        "nameFa": "فیش اند چیپس",
+        "descriptionEn": "Crispy fried fish fillet served with tartar sauce and fresh lemon",
+        "descriptionFa": "فیله ماهی ترد و سرخ‌شده، همراه با ساس تارتار و لیموی تازه",
+        "price": 550,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/77.jpg",
+        "available": true
+      },
+      {
+        "id": "78",
+        "nameEn": "Chicago Special Grilled Fish",
+        "nameFa": "ماهی گریل‌شده مخصوص شیکاگو",
+        "descriptionEn": "Grilled marinated fish served with lemon butter sauce and fresh lemon",
+        "descriptionFa": "ماهی مزه‌دارشده و گریل‌شده، همراه با ساس کره و لیمو و لیموی تازه",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/78.jpg",
+        "available": true
+      },
+      {
+        "id": "79",
+        "nameEn": "Cilantro Grilled Fish",
+        "nameFa": "ماهی گریل‌شده با گشنیز",
+        "descriptionEn": "Grilled fish fillet topped with tangy mushroom sauce",
+        "descriptionFa": "فیله ماهی گریل‌شده، همراه با ساس ترش و لذیذ سمارق",
+        "price": 790,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/79.jpg",
+        "available": true
+      },
+      {
+        "id": "80",
+        "nameEn": "Tandoori Fish",
+        "nameFa": "ماهی تندوری",
+        "descriptionEn": "Grilled fish fillet marinated in aromatic tandoori spices",
+        "descriptionFa": "فیله ماهی گریل‌شده، مزه‌دارشده با ادویه‌های معطر تندوری",
+        "price": 900,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/80.jpg",
+        "available": true
+      },
+      {
+        "id": "81",
+        "nameEn": "Oven Baked Fish",
+        "nameFa": "ماهی تنوری",
+        "descriptionEn": "Marinated baked fish topped with capsicum, black olives, tomato sauce and cheese",
+        "descriptionFa": "ماهی مزه‌دارشده و پخته‌شده در تنور، همراه با مرچ دلمه‌ای، زیتون سیاه، ساس گوجه و پنیر",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/81.jpg",
+        "available": true
+      },
+      {
+        "id": "82",
+        "nameEn": "Butter Fried Fish",
+        "nameFa": "ماهی سرخ‌شده با کره",
+        "descriptionEn": "Marinated fish fillet served with tartar sauce and fries",
+        "descriptionFa": "فیله ماهی مزه‌دارشده، همراه با ساس تارتار و چپس",
+        "price": 650,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/82.jpg",
+        "available": true
+      }
+    ],
+
+      "pasta": [
+      {
+        "id": "83",
+        "nameEn": "Chicago Special Pasta",
+        "nameFa": "پاستای مخصوص شیکاگو",
+        "descriptionEn": "Grilled chicken breast cooked with sun-dried tomato, green olives, black olives and olive oil, served with fettuccine pasta",
+        "descriptionFa": "سینه مرغ گریل‌شده با گوجه خشک‌شده، زیتون سبز، زیتون سیاه و روغن زیتون، همراه با پاستای فتوچینی",
+        "price": 550,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/83.jpg",
+        "available": true
+      },
+      {
+        "id": "84",
+        "nameEn": "American Baked Macaroni",
+        "nameFa": "ماکارونی تنوری امریکایی",
+        "descriptionEn": "Macaroni pasta, sliced chicken breast, black olives, capsicum and tomato tossed in sauce, topped with cheese and sausage",
+        "descriptionFa": "ماکارونی با برش‌های سینه مرغ، زیتون سیاه، مرچ دلمه‌ای و گوجه، مخلوط شده با ساس و روی آن پنیر و ساسچ",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/84.jpg",
+        "available": true
+      },
+      {
+        "id": "85",
+        "nameEn": "Garlic Chicken Mushroom Pasta",
+        "nameFa": "پاستای مرغ و سمارق با سیر",
+        "descriptionEn": "Penne pasta, grilled chicken tossed in garlic mushroom sauce",
+        "descriptionFa": "پاستای پنه با مرغ گریل‌شده، مخلوط شده با ساس سیر و سمارق",
+        "price": 790,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/85.jpg",
+        "available": true
+      },
+      {
+        "id": "86",
+        "nameEn": "Spaghetti Bolognese",
+        "nameFa": "اسپاگتی بولونیز",
+        "descriptionEn": "Spaghetti tossed with tasty tomato and meatball sauce",
+        "descriptionFa": "اسپاگتی با ساس خوش‌طعم گوجه و کوفته‌قلقلی",
+        "price": 900,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/86.jpg",
+        "available": true
+      },
+      {
+        "id": "87",
+        "nameEn": "Chicken Lasagna",
+        "nameFa": "لازانیا مرغ",
+        "descriptionEn": "Thin lasagna sheets, chicken and creamy tomato sauce topped with mushroom, black olives and cheese",
+        "descriptionFa": "ورقه‌های نازک لازانیا با مرغ و ساس خامه‌ای گوجه، همراه با سمارق، زیتون سیاه و پنیر",
+        "price": 850,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/87.jpg",
+        "available": true
+      },
+      {
+        "id": "88",
+        "nameEn": "Chicken Alfredo Baked Pasta",
+        "nameFa": "پاستای مرغ آلفردو تنوری",
+        "descriptionEn": "Fettuccine Alfredo pasta cooked with chicken and creamy sauce, topped with cheese and chicken",
+        "descriptionFa": "پاستای فتوچینی آلفردو با مرغ و ساس خامه‌ای، روی آن پنیر و مرغ",
+        "price": 650,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/88.jpg",
+        "available": true
+      }
     ]
+
   }
 }
