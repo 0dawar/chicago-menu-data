@@ -1,5 +1,5 @@
 {
-  "menuVersion": 11,
+  "menuVersion": 12,
   "categories": {
     "starters": [
       {
@@ -169,8 +169,7 @@
         "available": true
       }
     ],
-      
-      "soups": [
+    "soups": [
       {
         "id": "17",
         "nameEn": "Chicago Special Soup",
@@ -212,8 +211,7 @@
         "available": true
       }
     ],
-
-      "salads": [
+    "salads": [
       {
         "id": "21",
         "nameEn": "Chicken Caesar Salad",
@@ -285,8 +283,7 @@
         "available": true
       }
     ],
-
-      "burgers-and-sandwiches": [
+    "burgers-and-sandwiches": [
       {
         "id": "28",
         "nameEn": "Chicago Special Burger",
@@ -398,8 +395,7 @@
         "available": true
       }
     ],
-
-      "paninis-and-doner": [
+    "paninis-and-doner": [
       {
         "id": "39",
         "nameEn": "BBQ Chicken Panini",
@@ -481,8 +477,7 @@
         "available": true
       }
     ],
-
-      "chicago-grill-steaks": [
+    "chicago-grill-steaks": [
       {
         "id": "47",
         "nameEn": "Chicago Special Steak",
@@ -594,8 +589,7 @@
         "available": true
       }
     ],
-
-      "grill-chicken-steak": [
+    "grill-chicken-steak": [
       {
         "id": "58",
         "nameEn": "Chicago Special Chicken Steak",
@@ -667,8 +661,7 @@
         "available": true
       }
     ],
-
-      "chicago-pizza": [
+    "chicago-pizza": [
       {
         "id": "65",
         "nameEn": "Chicago Special Pizza",
@@ -676,10 +669,22 @@
         "descriptionEn": "Dough topped with roasted beef, grilled chicken, Alfredo chicken, sausage, mushroom, capsicum and cheese",
         "descriptionFa": "خمیر پیتزا با گوشت گوساله بریان، مرغ گریل‌شده، مرغ آلفردو، ساسچ، سمارق، مرچ دلمه‌ای و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 320 },
-          { "label": "M", "price": 550 },
-          { "label": "L", "price": 720 },
-          { "label": "F", "price": 950 }
+          {
+            "label": "S",
+            "price": 320
+          },
+          {
+            "label": "M",
+            "price": 550
+          },
+          {
+            "label": "L",
+            "price": 720
+          },
+          {
+            "label": "F",
+            "price": 950
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/65.jpg",
         "available": true
@@ -691,10 +696,22 @@
         "descriptionEn": "Dough topped with Jamaican chicken, black olives, sweet corn, pizza sauce and cheese",
         "descriptionFa": "خمیر پیتزا با مرغ جامائیکایی، زیتون سیاه، ذرت شیرین، ساس پیتزا و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 300 },
-          { "label": "M", "price": 500 },
-          { "label": "L", "price": 700 },
-          { "label": "F", "price": 900 }
+          {
+            "label": "S",
+            "price": 300
+          },
+          {
+            "label": "M",
+            "price": 500
+          },
+          {
+            "label": "L",
+            "price": 700
+          },
+          {
+            "label": "F",
+            "price": 900
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/66.jpg",
         "available": true
@@ -706,10 +723,22 @@
         "descriptionEn": "Dough topped with creamy chicken, black olives, bell pepper, onion, creamy sauce and cheese",
         "descriptionFa": "خمیر پیتزا با مرغ خامه‌ای، زیتون سیاه، مرچ دلمه‌ای، پیاز، ساس خامه‌ای و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 310 },
-          { "label": "M", "price": 520 },
-          { "label": "L", "price": 720 },
-          { "label": "F", "price": 900 }
+          {
+            "label": "S",
+            "price": 310
+          },
+          {
+            "label": "M",
+            "price": 520
+          },
+          {
+            "label": "L",
+            "price": 720
+          },
+          {
+            "label": "F",
+            "price": 900
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/67.jpg",
         "available": true
@@ -721,10 +750,22 @@
         "descriptionEn": "Dough topped with roast beef, mushroom, black olives, jalapeño, pizza sauce and cheese",
         "descriptionFa": "خمیر پیتزا با گوشت گوساله بریان، سمارق، زیتون سیاه، هالاپینیو، ساس پیتزا و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 340 },
-          { "label": "M", "price": 550 },
-          { "label": "L", "price": 730 },
-          { "label": "F", "price": 920 }
+          {
+            "label": "S",
+            "price": 340
+          },
+          {
+            "label": "M",
+            "price": 550
+          },
+          {
+            "label": "L",
+            "price": 730
+          },
+          {
+            "label": "F",
+            "price": 920
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/68.jpg",
         "available": true
@@ -736,10 +777,22 @@
         "descriptionEn": "Customer choice: any 4 flavors in 1 pizza",
         "descriptionFa": "انتخاب شما از هر ۴ مزه در یک پیتزا",
         "priceOptions": [
-          { "label": "S", "price": 350 },
-          { "label": "M", "price": 580 },
-          { "label": "L", "price": 770 },
-          { "label": "F", "price": 930 }
+          {
+            "label": "S",
+            "price": 350
+          },
+          {
+            "label": "M",
+            "price": 580
+          },
+          {
+            "label": "L",
+            "price": 770
+          },
+          {
+            "label": "F",
+            "price": 930
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/69.jpg",
         "available": true
@@ -751,10 +804,22 @@
         "descriptionEn": "Dough topped with pizza sauce, pepperoni, black olives, capsicum, onion and cheese",
         "descriptionFa": "خمیر پیتزا با ساس پیتزا، پپرونی، زیتون سیاه، مرچ دلمه‌ای، پیاز و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 280 },
-          { "label": "M", "price": 480 },
-          { "label": "L", "price": 650 },
-          { "label": "F", "price": 800 }
+          {
+            "label": "S",
+            "price": 280
+          },
+          {
+            "label": "M",
+            "price": 480
+          },
+          {
+            "label": "L",
+            "price": 650
+          },
+          {
+            "label": "F",
+            "price": 800
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/70.jpg",
         "available": true
@@ -766,10 +831,22 @@
         "descriptionEn": "Dough topped with pizza sauce, cheese and herbs",
         "descriptionFa": "خمیر پیتزا با ساس پیتزا، پنیر و سبزیجات معطر",
         "priceOptions": [
-          { "label": "S", "price": 250 },
-          { "label": "M", "price": 450 },
-          { "label": "L", "price": 580 },
-          { "label": "F", "price": 770 }
+          {
+            "label": "S",
+            "price": 250
+          },
+          {
+            "label": "M",
+            "price": 450
+          },
+          {
+            "label": "L",
+            "price": 580
+          },
+          {
+            "label": "F",
+            "price": 770
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/71.jpg",
         "available": true
@@ -781,10 +858,22 @@
         "descriptionEn": "Dough topped with tomato, capsicum, mushroom, black olives, sweet corn, jalapeño, pizza sauce and cheese",
         "descriptionFa": "خمیر پیتزا با گوجه، مرچ دلمه‌ای، سمارق، زیتون سیاه، ذرت شیرین، هالاپینیو، ساس پیتزا و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 250 },
-          { "label": "M", "price": 450 },
-          { "label": "L", "price": 580 },
-          { "label": "F", "price": 770 }
+          {
+            "label": "S",
+            "price": 250
+          },
+          {
+            "label": "M",
+            "price": 450
+          },
+          {
+            "label": "L",
+            "price": 580
+          },
+          {
+            "label": "F",
+            "price": 770
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/72.jpg",
         "available": true
@@ -796,9 +885,18 @@
         "descriptionEn": "Scrumptious pizza with a yummy blend of grilled chicken, onion, capsicum & special sauce",
         "descriptionFa": "پیتزای لذیذ با ترکیبی خوشمزه از مرغ گریل‌شده، پیاز، مرچ دلمه‌ای و ساس مخصوص",
         "priceOptions": [
-          { "label": "M", "price": 650 },
-          { "label": "L", "price": 880 },
-          { "label": "F", "price": 1020 }
+          {
+            "label": "M",
+            "price": 650
+          },
+          {
+            "label": "L",
+            "price": 880
+          },
+          {
+            "label": "F",
+            "price": 1020
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/73.jpg",
         "available": true
@@ -810,10 +908,22 @@
         "descriptionEn": "Dough topped with chicken, onion, capsicum, black olives, sweet corn and cheese",
         "descriptionFa": "خمیر پیتزا با مرغ، پیاز، مرچ دلمه‌ای، زیتون سیاه، ذرت شیرین و پنیر",
         "priceOptions": [
-          { "label": "S", "price": 350 },
-          { "label": "M", "price": 550 },
-          { "label": "L", "price": 750 },
-          { "label": "F", "price": 920 }
+          {
+            "label": "S",
+            "price": 350
+          },
+          {
+            "label": "M",
+            "price": 550
+          },
+          {
+            "label": "L",
+            "price": 750
+          },
+          {
+            "label": "F",
+            "price": 920
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/74.jpg",
         "available": true
@@ -825,9 +935,18 @@
         "descriptionEn": "Dough topped with cheese, chicken, capsicum, onion, green olives, sausage and special sauce",
         "descriptionFa": "خمیر پیتزا با پنیر، مرغ، مرچ دلمه‌ای، پیاز، زیتون سبز، ساسچ و ساس مخصوص",
         "priceOptions": [
-          { "label": "M", "price": 650 },
-          { "label": "L", "price": 880 },
-          { "label": "F", "price": 1020 }
+          {
+            "label": "M",
+            "price": 650
+          },
+          {
+            "label": "L",
+            "price": 880
+          },
+          {
+            "label": "F",
+            "price": 1020
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/75.jpg",
         "available": true
@@ -839,17 +958,28 @@
         "descriptionEn": "Dough topped with chicken, cheese, onion, capsicum, black olives and pineapples",
         "descriptionFa": "خمیر پیتزا با مرغ، پنیر، پیاز، مرچ دلمه‌ای، زیتون سیاه و آناناس",
         "priceOptions": [
-          { "label": "S", "price": 350 },
-          { "label": "M", "price": 550 },
-          { "label": "L", "price": 750 },
-          { "label": "F", "price": 920 }
+          {
+            "label": "S",
+            "price": 350
+          },
+          {
+            "label": "M",
+            "price": 550
+          },
+          {
+            "label": "L",
+            "price": 750
+          },
+          {
+            "label": "F",
+            "price": 920
+          }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/76.jpg",
         "available": true
       }
     ],
-
-      "fish-corner": [
+    "fish-corner": [
       {
         "id": "77",
         "nameEn": "Fish & Chips",
@@ -911,8 +1041,7 @@
         "available": true
       }
     ],
-
-      "pasta": [
+    "pasta": [
       {
         "id": "83",
         "nameEn": "Chicago Special Pasta",
@@ -974,6 +1103,5 @@
         "available": true
       }
     ]
-
   }
 }
