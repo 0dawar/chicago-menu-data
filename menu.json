@@ -1,5 +1,5 @@
 {
-  "menuVersion": 16,
+  "menuVersion": 17,
   "categories": {
     "starters": [
       {
@@ -1116,8 +1116,8 @@
     "cold-bar": [
       {
         "id": "Test",
-        "nameEn": "Test4",
-        "nameFa": "تست۴",
+        "nameEn": "Test2",
+        "nameFa": "تست",
         "price": 150,
         "available": true,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/Test.jpg"
