@@ -1,5 +1,5 @@
 {
-  "menuVersion": 24,
+  "menuVersion": 25,
   "categories": {
     "starters": [
       {
@@ -1106,8 +1106,8 @@
     "hot-bar": [
       {
         "id": "Test",
-        "nameEn": "Test2",
-        "nameFa": "تست",
+        "nameEn": "Test22",
+        "nameFa": "تست22",
         "price": 150,
         "available": true,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/Test.jpg"
@@ -1116,8 +1116,8 @@
     "cold-bar": [
       {
         "id": "Test",
-        "nameEn": "Test6",
-        "nameFa": "تست6",
+        "nameEn": "Test7",
+        "nameFa": "تست7",
         "price": 150,
         "available": true,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/Test.jpg"
