@@ -1,5 +1,5 @@
 {
-  "menuVersion": 26,
+  "menuVersion": 28,
   "categories": {
     "starters": [
       {
@@ -1105,22 +1105,598 @@
     ],
     "hot-bar": [
       {
-        "id": "Test",
-        "nameEn": "Test22",
-        "nameFa": "تست22",
+        "id": "01",
+        "nameEn": "ESPRESSO 100% ARABICA",
+        "nameFa": "اسپرسو ۱۰۰٪ عربیکا",
+        "price": 170,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/01.jpg"
+      },
+      {
+        "id": "02",
+        "nameEn": "ESPRESSO Double",
+        "nameFa": "اسپرسو دبل",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/Test.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/02.jpg"
+      },
+      {
+        "id": "03",
+        "nameEn": "ESPRESSO Single",
+        "nameFa": "اسپرسو سینگل",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/03.jpg"
+      },
+      {
+        "id": "04",
+        "nameEn": "AMERICANO 100% ARABICA",
+        "nameFa": "امریکانو ۱۰۰٪ عربیکا",
+        "price": 130,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/04.jpg"
+      },
+      {
+        "id": "05",
+        "nameEn": "AMERICANO",
+        "nameFa": "امریکانو",
+        "price": 110,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/05.jpg"
+      },
+      {
+        "id": "06",
+        "nameEn": "LATTE",
+        "nameFa": "لاته",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/06.jpg"
+      },
+      {
+        "id": "07",
+        "nameEn": "CAPPUCCINO",
+        "nameFa": "کاپوچینو",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/07.jpg"
+      },
+      {
+        "id": "08",
+        "nameEn": "CARAMEL MACCHIATO",
+        "nameFa": "کارامل ماکیاتو",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/08.jpg"
+      },
+      {
+        "id": "09",
+        "nameEn": "AFFOGATO",
+        "nameFa": "آفوگاتو",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/09.jpg"
+      },
+      {
+        "id": "10",
+        "nameEn": "MOCHA LATTE",
+        "nameFa": "موکا لاته",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/10.jpg"
+      },
+      {
+        "id": "11",
+        "nameEn": "MATCHA",
+        "nameFa": "ماچا",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/11.jpg"
+      },
+      {
+        "id": "12",
+        "nameEn": "Hot Chocolate",
+        "nameFa": "چاکلیت گرم",
+        "price": 220,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/12.jpg"
+      },
+      {
+        "id": "13",
+        "nameEn": "White Chocolate",
+        "nameFa": "چاکلیت سفید",
+        "price": 220,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/13.jpg"
+      },
+      {
+        "id": "14",
+        "nameEn": "Kadak Tea",
+        "nameFa": "چای کَدَک",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/14.jpg"
+      },
+      {
+        "id": "15",
+        "nameEn": "Chai Masala",
+        "nameFa": "چای ماسالا",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/15.jpg"
+      },
+      {
+        "id": "16",
+        "nameEn": "Black Tea",
+        "nameFa": "چای سیاه",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/16.jpg"
+      },
+      {
+        "id": "17",
+        "nameEn": "Green Tea",
+        "nameFa": "چای سبز",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/17.jpg"
+      },
+      {
+        "id": "18",
+        "nameEn": "Safran Tea",
+        "nameFa": "چای زعفرانی",
+        "price": 150,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/18.jpg"
+      },
+      {
+        "id": "19",
+        "nameEn": "Moroccan Tea",
+        "nameFa": "چای مراکشی",
+        "price": 150,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/19.jpg"
+      },
+      {
+        "id": "20",
+        "nameEn": "Wellness Tea (Immune Booster)",
+        "nameFa": "چای سلامتی (تقویت‌کننده سیستم ایمنی)",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/20.jpg"
+      },
+      {
+        "id": "21",
+        "nameEn": "Lemon Mint Special Tea",
+        "nameFa": "چای مخصوص لیمو و نعناع",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/21.jpg"
+      },
+      {
+        "id": "22",
+        "nameEn": "Health Tea",
+        "nameFa": "چای صحی",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/22.jpg"
+      },
+      {
+        "id": "23",
+        "nameEn": "Balanced Herbal Tea",
+        "nameFa": "چای گیاهی متعادل",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/23.jpg"
       }
     ],
     "cold-bar": [
       {
-        "id": "Test",
-        "nameEn": "Test7",
-        "nameFa": "تست7",
+        "id": "01",
+        "nameEn": "Iced Espresso 100% Arabica",
+        "nameFa": "اسپرسو یخی ۱۰۰٪ عربیکا",
+        "price": 170,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/01.jpg"
+      },
+      {
+        "id": "02",
+        "nameEn": "Iced Espresso Double",
+        "nameFa": "اسپرسو یخی دبل",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/Test.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/02.jpg"
+      },
+      {
+        "id": "03",
+        "nameEn": "Iced Espresso Single",
+        "nameFa": "اسپرسو یخی سینگل",
+        "price": 100,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/03.jpg"
+      },
+      {
+        "id": "04",
+        "nameEn": "Iced Americano 100% Arabica",
+        "nameFa": "امریکانوی یخی ۱۰۰٪ عربیکا",
+        "price": 130,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/04.jpg"
+      },
+      {
+        "id": "05",
+        "nameEn": "Iced Americano",
+        "nameFa": "امریکانوی یخی",
+        "price": 110,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/05.jpg"
+      },
+      {
+        "id": "06",
+        "nameEn": "Iced Latte",
+        "nameFa": "لاته یخی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/06.jpg"
+      },
+      {
+        "id": "07",
+        "nameEn": "Iced Cappuccino",
+        "nameFa": "کاپوچینوی یخی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/07.jpg"
+      },
+      {
+        "id": "08",
+        "nameEn": "Iced Caramel Macchiato",
+        "nameFa": "کارامل ماکیاتوی یخی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/08.jpg"
+      },
+      {
+        "id": "09",
+        "nameEn": "Iced Mocha Latte",
+        "nameFa": "موکا لاته یخی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/09.jpg"
+      },
+      {
+        "id": "10",
+        "nameEn": "Iced Matcha",
+        "nameFa": "ماچای یخی",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/10.jpg"
+      },
+      {
+        "id": "11",
+        "nameEn": "Miami",
+        "nameFa": "میامی",
+        "price": 280,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/11.jpg"
+      },
+      {
+        "id": "12",
+        "nameEn": "Cherry Berry",
+        "nameFa": "چری بری",
+        "price": 300,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/12.jpg"
+      },
+      {
+        "id": "13",
+        "nameEn": "Green Line",
+        "nameFa": "گرین لاین",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/13.jpg"
+      },
+      {
+        "id": "14",
+        "nameEn": "Tropical Smoothie",
+        "nameFa": "اسموتی استوایی",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/14.jpg"
+      },
+      {
+        "id": "15",
+        "nameEn": "Lemonade",
+        "nameFa": "لیموناد",
+        "price": 150,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/15.jpg"
+      },
+      {
+        "id": "16",
+        "nameEn": "Mojito",
+        "nameFa": "موهیتو",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/16.jpg"
+      },
+      {
+        "id": "17",
+        "nameEn": "Ginger Mojito",
+        "nameFa": "موهیتو زنجبیلی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/17.jpg"
+      },
+      {
+        "id": "18",
+        "nameEn": "Red Mojito",
+        "nameFa": "موهیتو سرخ",
+        "price": 230,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/18.jpg"
+      },
+      {
+        "id": "19",
+        "nameEn": "Pink Gum",
+        "nameFa": "پینک گام",
+        "price": 230,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/19.jpg"
+      },
+      {
+        "id": "20",
+        "nameEn": "Golden Lemon",
+        "nameFa": "لیموی طلایی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/20.jpg"
+      },
+      {
+        "id": "21",
+        "nameEn": "Hawaii Drink",
+        "nameFa": "نوشیدنی هاوایی",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/21.jpg"
+      },
+      {
+        "id": "22",
+        "nameEn": "Red Line Drink",
+        "nameFa": "نوشیدنی رد لاین",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/22.jpg"
+      },
+      {
+        "id": "23",
+        "nameEn": "Black Ocean",
+        "nameFa": "اقیانوس سیاه",
+        "price": 180,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/23.jpg"
+      },
+      {
+        "id": "24",
+        "nameEn": "Coffee Mint Soda",
+        "nameFa": "سودای قهوه و نعناع",
+        "price": 180,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/24.jpg"
+      },
+      {
+        "id": "25",
+        "nameEn": "Hibiscus",
+        "nameFa": "هیبیسکس",
+        "price": 300,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/25.jpg"
+      },
+      {
+        "id": "26",
+        "nameEn": "Vanilla Shake",
+        "nameFa": "شیک وانیل",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/26.jpg"
+      },
+      {
+        "id": "27",
+        "nameEn": "Nutella Shake",
+        "nameFa": "شیک نوتلا",
+        "price": 220,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/27.jpg"
+      },
+      {
+        "id": "28",
+        "nameEn": "Lotus Biscoff Milkshake",
+        "nameFa": "میلک‌شیک لوتوس بیسکوف",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/28.jpg"
+      },
+      {
+        "id": "29",
+        "nameEn": "Peanut Butter Shake",
+        "nameFa": "شیک ممپلی",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/29.jpg"
+      },
+      {
+        "id": "30",
+        "nameEn": "Espresso Shake",
+        "nameFa": "شیک اسپرسو",
+        "price": 230,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/30.jpg"
+      },
+      {
+        "id": "31",
+        "nameEn": "Avocado Coconut Shake",
+        "nameFa": "شیک آووکادو و ناریل",
+        "price": 350,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/31.jpg"
+      },
+      {
+        "id": "32",
+        "nameEn": "Strawberry Shake",
+        "nameFa": "شیک توت‌ زمینی",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/32.jpg"
+      },
+      {
+        "id": "33",
+        "nameEn": "Berry Shake",
+        "nameFa": "شیک بری",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/33.jpg"
+      },
+      {
+        "id": "34",
+        "nameEn": "Melon Shake",
+        "nameFa": "شیک خربوزه",
+        "price": 230,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/34.jpg"
+      },
+      {
+        "id": "35",
+        "nameEn": "Banana Juice",
+        "nameFa": "چوس کیله",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/35.jpg"
+      },
+      {
+        "id": "36",
+        "nameEn": "Orange Juice",
+        "nameFa": "چوس پرتقال",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/36.jpg"
+      },
+      {
+        "id": "37",
+        "nameEn": "Watermelon Juice",
+        "nameFa": "چوس تربوز",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/37.jpg"
+      },
+      {
+        "id": "38",
+        "nameEn": "Melon Juice",
+        "nameFa": "چوس خربوزه",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/38.jpg"
+      },
+      {
+        "id": "39",
+        "nameEn": "Mango Juice",
+        "nameFa": "چوس ام",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/39.jpg"
+      },
+      {
+        "id": "40",
+        "nameEn": "Apple Juice",
+        "nameFa": "چوس سیب",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/40.jpg"
+      },
+      {
+        "id": "41",
+        "nameEn": "Pomegranate Juice",
+        "nameFa": "چوس انار",
+        "price": 200,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/41.jpg"
+      },
+      {
+        "id": "42",
+        "nameEn": "Mix Juice",
+        "nameFa": "جوس مکس",
+        "price": 250,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/42.jpg"
+      },
+      {
+        "id": "43",
+        "nameEn": "Water",
+        "nameFa": "آب",
+        "price": 20,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/43.jpg"
+      },
+      {
+        "id": "44",
+        "nameEn": "Coca-Cola",
+        "nameFa": "کوکاکولا",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/44.jpg"
+      },
+      {
+        "id": "45",
+        "nameEn": "Fanta",
+        "nameFa": "فانتا",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/45.jpg"
+      },
+      {
+        "id": "46",
+        "nameEn": "Pepsi",
+        "nameFa": "پپسی",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/46.jpg"
+      },
+      {
+        "id": "47",
+        "nameEn": "Sprite",
+        "nameFa": "اسپرایت",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/47.jpg"
+      },
+      {
+        "id": "48",
+        "nameEn": "Light Coke",
+        "nameFa": "کوکاکولای لایت",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/48.jpg"
+      },
+      {
+        "id": "49",
+        "nameEn": "Breeze",
+        "nameFa": "بریز",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/49.jpg"
+      },
+      {
+        "id": "50",
+        "nameEn": "Magic",
+        "nameFa": "مجیک",
+        "price": 30,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/50.jpg"
+      },
+      {
+        "id": "51",
+        "nameEn": "Perrier Water (Sparkling)",
+        "nameFa": "آب گازدار پریر",
+        "price": 120,
+        "available": true,
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/51.jpg"
       }
     ]
   }
