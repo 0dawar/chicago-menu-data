@@ -1,5 +1,5 @@
 {
-  "menuVersion": 28,
+  "menuVersion": 29,
   "categories": {
     "starters": [
       {
@@ -10,7 +10,9 @@
         "descriptionFa": "بال‌های مرغ سرخ‌شده با ساس داینمایت",
         "price": 310,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/01.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ډاینامایټ چرګ وزرونه",
+        "descriptionPs": "د چرګ سره شوي وزرونه په ډاینامایټ ساس کې"
       },
       {
         "id": "02",
@@ -20,7 +22,9 @@
         "descriptionFa": "بال‌های مرغ طلایی و سرخ‌شده با ساس تند مخصوص",
         "price": 300,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/02.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ تند وزرونه",
+        "descriptionPs": "د چرګ طلایي سره شوي وزرونه، زموږ په ځانګړي تند ساس کې"
       },
       {
         "id": "03",
@@ -30,7 +34,9 @@
         "descriptionFa": "بال‌های مرغ طلایی و سرخ‌شده، همراه با ساس عسل و خردل",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/03.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ سره شوي وزرونه",
+        "descriptionPs": "د چرګ طلایي سره شوي وزرونه، د شاتو او خردلو له ساس سره"
       },
       {
         "id": "04",
@@ -40,7 +46,9 @@
         "descriptionFa": "بال‌های مرغ آبدار و مزه‌دارشده، گریل‌شده روی شعله و همراه با ساس دودی باربیکیو",
         "price": 310,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/04.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د باربیکیو ګریل شوي چرګ وزرونه",
+        "descriptionPs": "د چرګ خوندور او جوس لرونکي وزرونه، پر لمبه ګریل شوي، د لوګي خوند لرونکي باربیکیو ساس سره"
       },
       {
         "id": "05",
@@ -50,7 +58,9 @@
         "descriptionFa": "تکه‌های مرغ ترد با ساس داینمایت",
         "price": 300,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/05.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ډاینامایټ چرګ ټوټې",
+        "descriptionPs": "د چرګ کرکرې ټوټې په ډاینامایټ ساس کې"
       },
       {
         "id": "06",
@@ -60,7 +70,9 @@
         "descriptionFa": "استریپس مرغ مغزدار، طلایی و سرخ‌شده، همراه با ساس تارتار",
         "price": 380,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/06.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ ډکې پټې",
+        "descriptionPs": "د چرګ ډکې او طلایي سره شوې پټې، له تارتار ساس سره"
       },
       {
         "id": "07",
@@ -70,7 +82,9 @@
         "descriptionFa": "فینگرهای ماهی طلایی و سرخ‌شده، همراه با ساس تارتار",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/07.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د کب فینګرز",
+        "descriptionPs": "د کب طلایي سره شوې اوږدې ټوټې، له تارتار ساس سره"
       },
       {
         "id": "08",
@@ -80,7 +94,9 @@
         "descriptionFa": "فینگرهای مرغ طلایی و سرخ‌شده، همراه با ساس عسل و خردل",
         "price": 320,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/08.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ فینګرز",
+        "descriptionPs": "د چرګ طلایي سره شوې اوږدې ټوټې، د شاتو او خردلو له ساس سره"
       },
       {
         "id": "09",
@@ -90,7 +106,9 @@
         "descriptionFa": "توپک‌های مرغ مغزدار با پنیر، همراه با چهار نوع ساس",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/09.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ او پنیر ګولۍ",
+        "descriptionPs": "د چرګ ګولۍ چې له پنیر څخه ډکې دي، له څلورو ساسونو سره"
       },
       {
         "id": "10",
@@ -100,7 +118,9 @@
         "descriptionFa": "پاپ‌کورن مرغ یا ماهی به انتخاب شما، همراه با ساس تارتار و ساس عسل و خردل",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/10.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ یا کب پاپکارن",
+        "descriptionPs": "ستاسو په خوښه د چرګ یا کب پاپکارن، له تارتار او د شاتو او خردلو ساسونو سره"
       },
       {
         "id": "11",
@@ -110,7 +130,9 @@
         "descriptionFa": "ناگت‌های نرم و لذیذ مرغ، همراه با ساس عسل و خردل و ساس مخصوص",
         "price": 250,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/11.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ نګټس",
+        "descriptionPs": "د چرګ نرم او خوندور نګټس، د شاتو او خردلو او ځانګړي ساس سره"
       },
       {
         "id": "12",
@@ -120,7 +142,9 @@
         "descriptionFa": "۲ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
         "price": 240,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/12.jpg",
-        "available": true
+        "available": true,
+        "namePs": "په بټرمیلک کې سوخاري چرګ – ۲ ټوټې",
+        "descriptionPs": "د چرګ ۲ کرکرې سوخاري ټوټې، په بټرمیلک کې مزه شوې، له دوو ساسونو او چپس سره"
       },
       {
         "id": "13",
@@ -130,7 +154,9 @@
         "descriptionFa": "۴ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
         "price": 450,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/13.jpg",
-        "available": true
+        "available": true,
+        "namePs": "په بټرمیلک کې سوخاري چرګ – ۴ ټوټې",
+        "descriptionPs": "د چرګ ۴ کرکرې سوخاري ټوټې، په بټرمیلک کې مزه شوې، له دوو ساسونو او چپس سره"
       },
       {
         "id": "14",
@@ -140,7 +166,9 @@
         "descriptionFa": "۸ تکه مرغ سوخاری ترد و مزه‌دارشده با باترمیلک، همراه با ۲ نوع ساس و چپس",
         "price": 820,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/14.jpg",
-        "available": true
+        "available": true,
+        "namePs": "په بټرمیلک کې سوخاري چرګ – ۸ ټوټې",
+        "descriptionPs": "د بشپړ چرګ ۸ کرکرې سوخاري ټوټې، په بټرمیلک کې مزه شوې، له دوو ساسونو او چپس سره"
       },
       {
         "id": "15",
@@ -148,7 +176,8 @@
         "nameFa": "چپس – معمولی",
         "price": 120,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/15.jpg",
-        "available": true
+        "available": true,
+        "namePs": "چپس – عادي"
       },
       {
         "id": "16",
@@ -156,7 +185,8 @@
         "nameFa": "چپس زینگر – تند و معمولی",
         "price": 250,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/16.jpg",
-        "available": true
+        "available": true,
+        "namePs": "زینګر چپس – تند او بې مرچو"
       },
       {
         "id": "16.1",
@@ -166,7 +196,9 @@
         "descriptionFa": "با گوشت گوساله یا مرغ به انتخاب شما",
         "price": 300,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/starters/16.1.jpg",
-        "available": true
+        "available": true,
+        "namePs": "ځانګړي چپس",
+        "descriptionPs": "ستاسو په خوښه د غوایي یا چرګ له غوښې سره"
       }
     ],
     "soups": [
@@ -178,7 +210,9 @@
         "descriptionFa": "سوپ خامه‌ای مرغ و بادام",
         "price": 150,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/soups/17.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی سوپ",
+        "descriptionPs": "د چرګ او بادامو کریمي سوپ"
       },
       {
         "id": "18",
@@ -188,7 +222,9 @@
         "descriptionFa": "سوپ مقوی با سبزیجات تازه، مرغ، زیتون، سمارق و جواری شیرین",
         "price": 130,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/soups/18.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ او سبزیو سوپ",
+        "descriptionPs": "مقوي سوپ له تازه سبزیو، چرګ، زیتونو، مرخیړیو او خوږو جوارو سره"
       },
       {
         "id": "19",
@@ -198,7 +234,9 @@
         "descriptionFa": "ترکیبی لذیذ از مرغ، جواری شیرین، تخم‌مرغ و سبزیجات تازه",
         "price": 130,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/soups/19.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ او جوارو سوپ",
+        "descriptionPs": "د چرګ، خوږو جوارو، هګیو او تازه سبزیو خوندور ترکیب"
       },
       {
         "id": "20",
@@ -208,7 +246,9 @@
         "descriptionFa": "سوپ سنتی تایلندی با مرغ کبابی، برنج سرخ‌شده، مرچ سبز و زنجبیل",
         "price": 130,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/soups/20.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ تای سوپ (تروش او تند)",
+        "descriptionPs": "د تایلنډ دودیز سوپ له بریان چرګ، سرو شویو وریجو، شنو مرچو او ادرکو سره"
       }
     ],
     "salads": [
@@ -220,7 +260,9 @@
         "descriptionFa": "سالاد سیزر مخصوص ما با مرغ گریل‌شده، زیتون، برش‌های گوجه و نان تست تُرد خانگی",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/21.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ سیزر سلاد",
+        "descriptionPs": "زموږ کلاسیک سیزر سلاد له ګریل شوي چرګ، زیتونو، رومي بانجانو او په کور کې د تیارې شوې کرکرې ډوډۍ له ټوټو سره"
       },
       {
         "id": "22",
@@ -230,7 +272,9 @@
         "descriptionFa": "کچالوی شکم‌پر با مرغ، پنیر و کاهوی آیسبرگ",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/22.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ډک کچالو سلاد",
+        "descriptionPs": "کچالو چې له چرګ، پنیر او آیسبرګ کاهو څخه ډک دي"
       },
       {
         "id": "23",
@@ -240,7 +284,9 @@
         "descriptionFa": "میوه‌های تازه، سبزیجات، ماکارونی و مرغ گریل‌شده",
         "price": 400,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/23.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی سلاد",
+        "descriptionPs": "تازه مېوې، سابه، مکروني او ګریل شوی چرګ"
       },
       {
         "id": "24",
@@ -250,7 +296,9 @@
         "descriptionFa": "ترکیبی از سبزیجات تازه با پنیر فتا و ساس لیمو و روغن زیتون",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/24.jpg",
-        "available": true
+        "available": true,
+        "namePs": "یوناني کلیوال سلاد",
+        "descriptionPs": "د شنو سبزیو ګډ سلاد له فیټا پنیر، لیمو او زیتون تېلو ساس سره"
       },
       {
         "id": "25",
@@ -260,7 +308,9 @@
         "descriptionFa": "ماکارونی، مرغ، پیاز، مرچ دلمه‌ای، گوجه و ذرت شیرین",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/25.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د مکروني او چرګ سلاد",
+        "descriptionPs": "مکروني، چرګ، پیاز، دلمه مرچ، رومي بانجان او خواږه جوار"
       },
       {
         "id": "26",
@@ -270,7 +320,9 @@
         "descriptionFa": "هویج، کلم و خیار خلالی با برش‌های مرغ گریل‌شده، همراه با ساس روغن زیتون",
         "price": 280,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/26.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ګریل شوي چرګ سلاد",
+        "descriptionPs": "نري پرې شوي ګازرې، کرم او بادرنګ د ګریل شوي چرګ له ټوټو او زیتون تېلو ساس سره"
       },
       {
         "id": "27",
@@ -280,7 +332,9 @@
         "descriptionFa": "انار، پنیر فتا، لیمو، روغن زیتون، عسل و کاهوی سبز تازه",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/salads/27.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د انارو سلاد",
+        "descriptionPs": "انار، فیټا پنیر، لیمو، د زیتون تېل، شات او د کاهو تازه وړې پاڼې"
       }
     ],
     "burgers-and-sandwiches": [
@@ -292,7 +346,9 @@
         "descriptionFa": "برگر سه‌طبقه با ماهی سرخ‌شده، مرغ گریل‌شده، پَتی گوشت گوساله و پنیر، همراه با چپس",
         "price": 550,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/28.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی برګر",
+        "descriptionPs": "درې پوړیز برګر له سره شوي کب، ګریل شوي چرګ، د غوایي غوښې پټي او پنیر سره، له چپس سره"
       },
       {
         "id": "29",
@@ -302,7 +358,9 @@
         "descriptionFa": "پَتی گوشت گوساله یا مرغ گریل‌شده به انتخاب شما، همراه با پنیر، ساس مخصوص و چپس",
         "price": 300,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/29.jpg",
-        "available": true
+        "available": true,
+        "namePs": "لون سټار د غوایي غوښې برګر",
+        "descriptionPs": "ستاسو په خوښه د غوایي یا چرګ ګریل شوې پټي، له پنیر، ځانګړي ساس او چپس سره"
       },
       {
         "id": "30",
@@ -312,7 +370,9 @@
         "descriptionFa": "سینه مرغ طلایی و سرخ‌شده، مغزدار با پنیر و سبزیجات معطر، همراه با برش‌های پنیر",
         "price": 380,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/30.jpg",
-        "available": true
+        "available": true,
+        "namePs": "ځانګړی فرانسوي برګر",
+        "descriptionPs": "د چرګ طلایي سره شوې سینه، له پنیر او خوشبویه بوټو څخه ډکه، پر سر یې د پنیر ټوټې"
       },
       {
         "id": "31",
@@ -322,7 +382,9 @@
         "descriptionFa": "ماهی طلایی و سرخ‌شده، همراه با پنیر، گوجه، پیاز و ساس",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/31.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د کرکري کب برګر",
+        "descriptionPs": "طلایي سره شوی کب، پر سر یې پنیر، رومي بانجان، پیاز او ساس"
       },
       {
         "id": "32",
@@ -332,7 +394,9 @@
         "descriptionFa": "مرغ زینگر ترد و سرخ‌شده، همراه با مرغ پیتزا و پنیر",
         "price": 450,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/32.jpg",
-        "available": true
+        "available": true,
+        "namePs": "پیزا زینګر برګر",
+        "descriptionPs": "کرکر سوخاري زینګر چرګ، پر سر یې د پیزا چرګ او پنیر"
       },
       {
         "id": "33",
@@ -342,7 +406,9 @@
         "descriptionFa": "مرغ زینگر ترد و سرخ‌شده، همراه با پنیر و ساس",
         "price": 320,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/33.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ زینګر برګر",
+        "descriptionPs": "کرکر سوخاري زینګر چرګ، له پنیر او ساس سره"
       },
       {
         "id": "34",
@@ -352,7 +418,9 @@
         "descriptionFa": "با گوشت گوساله یا مرغ به انتخاب شما، همراه با ساس لاوا پنیر",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/34.jpg",
-        "available": true
+        "available": true,
+        "namePs": "چیز لاوا برګر",
+        "descriptionPs": "ستاسو په خوښه د غوایي یا چرګ غوښه، د چیز لاوا ساس سره"
       },
       {
         "id": "35",
@@ -362,7 +430,9 @@
         "descriptionFa": "مرغ بدون استخوان ترد و سرخ‌شده، همراه با ساس و پنیر",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/35.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ کرنچ برګر",
+        "descriptionPs": "کرکر سوخاري بې هډوکو چرګ، له ساس او پنیر سره"
       },
       {
         "id": "36",
@@ -372,7 +442,9 @@
         "descriptionFa": "مرغ یا گوشت گوساله گریل‌شده به انتخاب شما، همراه با پنیر و ساس مخصوص",
         "price": 380,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/36.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ګریل شوي سټېک برګر",
+        "descriptionPs": "ستاسو په خوښه ګریل شوی چرګ یا د غوایي غوښه، له پنیر او ځانګړي ساس سره"
       },
       {
         "id": "37",
@@ -382,7 +454,9 @@
         "descriptionFa": "سینه مرغ بدون استخوان گریل‌شده، پپرونی، تخم‌مرغ و پنیر، گوجه، پیاز و کاهو، همراه با ساس",
         "price": 380,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/37.jpg",
-        "available": true
+        "available": true,
+        "namePs": "درې پوړیز سانډویچ",
+        "descriptionPs": "د چرګ ګریل شوې بې هډوکو سینه، پپروني، هګۍ، پنیر، رومي بانجان، پیاز او کاهو له ساس سره"
       },
       {
         "id": "38",
@@ -392,7 +466,9 @@
         "descriptionFa": "مرغ ترد و سرخ‌شده، پنیر، گوجه، پیاز و کاهو، همراه با ساس",
         "price": 350,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/burgers-and-sandwiches/38.jpg",
-        "available": true
+        "available": true,
+        "namePs": "کرنچ سانډویچ",
+        "descriptionPs": "کرکر سوخاري چرګ او پنیر، له رومي بانجانو، پیاز، کاهو او ساس سره"
       }
     ],
     "paninis-and-doner": [
@@ -404,7 +480,9 @@
         "descriptionFa": "مرغ گریل‌شده با ساس باربیکیو و پنیر",
         "price": 320,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/39.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د باربیکیو چرګ پانیني",
+        "descriptionPs": "ګریل شوی چرګ له باربیکیو ساس او پنیر سره"
       },
       {
         "id": "40",
@@ -414,7 +492,9 @@
         "descriptionFa": "سینه مرغ بدون استخوان سرخ‌شده، گوجه و پنیر",
         "price": 320,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/40.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ او هالاپینو پانیني",
+        "descriptionPs": "د چرګ سره شوې بې هډوکو سینه، له رومي بانجانو او پنیر سره"
       },
       {
         "id": "41",
@@ -424,7 +504,9 @@
         "descriptionFa": "گوشت گوساله بریان، سمارق و پنیر",
         "price": 400,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/41.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د بریانې غوښې پانیني",
+        "descriptionPs": "د غوایي بریانه غوښه، مرخیړي او پنیر"
       },
       {
         "id": "42",
@@ -434,7 +516,9 @@
         "descriptionFa": "گوجه نیمه‌خشک، مرغ یا گوشت گوساله گریل‌شده به انتخاب شما، تخم‌مرغ سرخ‌شده و پنیر",
         "price": 450,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/42.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی پانیني",
+        "descriptionPs": "نیم وچ رومي بانجان، ستاسو په خوښه ګریل شوی چرګ یا د غوایي غوښه، سره شوې هګۍ او پنیر"
       },
       {
         "id": "43",
@@ -444,7 +528,9 @@
         "descriptionFa": "برش‌های گوشت گوساله کباب‌شده روی آتش، همراه با پنیر و ساس عسل و خردل",
         "price": 400,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/43.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د فیلي سټېک او پنیر پانیني",
+        "descriptionPs": "پر سکرو د ګریل شوې غوایي غوښې ټوټې، له پنیر او د شاتو او خردلو ساس سره"
       },
       {
         "id": "44",
@@ -454,7 +540,9 @@
         "descriptionFa": "گوشت دونر مخلوط، گوشت گوساله یا مرغ به انتخاب شما، پیاز، گوجه، کاهوی تازه و کلم سرخ، همراه با ۳ ساس مخصوص",
         "price": 450,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/44.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی دونر",
+        "descriptionPs": "ستاسو په خوښه د دونر کباب ګډې غوښې، د غوایي یا چرګ غوښه، پیاز، رومي بانجان، تازه کاهو او سور کرم، له دریو ځانګړو ساسونو سره"
       },
       {
         "id": "45",
@@ -464,7 +552,9 @@
         "descriptionFa": "گوشت دونر مرغ یا گوساله به انتخاب شما، کاهوی تازه، پیاز، گوجه و کلم سرخ، همراه با ۳ ساس مخصوص",
         "price": 400,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/45.jpg",
-        "available": true
+        "available": true,
+        "namePs": "جرمني دونر کباب",
+        "descriptionPs": "ستاسو په خوښه د چرګ یا غوایي دونر کباب، له تازه کاهو، پیاز، رومي بانجانو، سره کرم او دریو ځانګړو ساسونو سره"
       },
       {
         "id": "46",
@@ -474,7 +564,9 @@
         "descriptionFa": "گوشت دونر مرغ یا گوساله به انتخاب شما، کاهوی تازه، پیاز، گوجه و کلم سرخ، همراه با ۳ ساس مخصوص",
         "price": 400,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/paninis-and-doner/46.jpg",
-        "available": true
+        "available": true,
+        "namePs": "امریکایي دونر کباب",
+        "descriptionPs": "ستاسو په خوښه د چرګ یا غوایي دونر، له تازه کاهو، پیاز، رومي بانجانو، سره کرم او دریو ځانګړو ساسونو سره"
       }
     ],
     "chicago-grill-steaks": [
@@ -486,7 +578,9 @@
         "descriptionFa": "استیک گوشت گوساله مزه‌دارشده، مغزدار با سمارق، هالاپینیو و پنیر، همراه با ساس مخصوص",
         "price": 1100,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/47.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی سټېک",
+        "descriptionPs": "مزه شوی د غوایي سټېک، له مرخیړیو، هالاپینو او پنیر څخه ډک، له ځانګړي ساس سره"
       },
       {
         "id": "48",
@@ -496,7 +590,9 @@
         "descriptionFa": "استیک گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس فلفل، پیاز گریل‌شده و پنیر",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/48.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د فرانسوي پیازو سټېک",
+        "descriptionPs": "مزه شوی د غوایي سټېک، پر سکرو ګریل شوی، له مرچ ساس، ګریل شویو پیازو او پنیر سره"
       },
       {
         "id": "49",
@@ -506,7 +602,9 @@
         "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با ساس سمارق شیتاکه و پیاز کاراملی‌شده",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/49.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ځنګلي شیتاکي مرخیړیو سټېک",
+        "descriptionPs": "پر سکرو ګریل شوی د غوایي فیلې، د شیتاکي مرخیړیو له ساس او کاراملي پیازو سره"
       },
       {
         "id": "50",
@@ -516,7 +614,9 @@
         "descriptionFa": "فیله گوشت گوساله گریل‌شده و مزه‌دارشده، همراه با ساس خامه‌ای سمارق و ساس فلفل",
         "price": 900,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/50.jpg",
-        "available": true
+        "available": true,
+        "namePs": "دوه ګونی سټېک",
+        "descriptionPs": "مزه شوی او ګریل شوی د غوایي فیلې، د مرخیړیو له کریمي ساس او مرچ ساس سره"
       },
       {
         "id": "51",
@@ -526,7 +626,9 @@
         "descriptionFa": "استیک گوشت گوساله با برش ممتاز، همراه با تخم‌مرغ و پنیر",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/51.jpg",
-        "available": true
+        "available": true,
+        "namePs": "کاوبای سټېک",
+        "descriptionPs": "د غوایي د غوره غوښې سټېک، له هګیو او پنیر سره"
       },
       {
         "id": "52",
@@ -536,7 +638,9 @@
         "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/52.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د مرخیړیو کلاسیک سټېک",
+        "descriptionPs": "پر سکرو ګریل شوی د غوایي فیلې، د مرخیړیو له کریمي ساس سره"
       },
       {
         "id": "53",
@@ -546,7 +650,9 @@
         "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس دودی باربیکیو",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/53.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د لوګي خوند لرونکی باربیکیو سټېک",
+        "descriptionPs": "مزه شوی د غوایي فیلې، پر سکرو ګریل شوی، د لوګي خوند لرونکي باربیکیو ساس سره"
       },
       {
         "id": "54",
@@ -556,7 +662,9 @@
         "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق، آناناس گریل‌شده و پنیر",
         "price": 880,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/54.jpg",
-        "available": true
+        "available": true,
+        "namePs": "هاوایي سټېک",
+        "descriptionPs": "مزه شوی د غوایي فیلې، پر سکرو ګریل شوی، د مرخیړیو له کریمي ساس، ګریل شوي اناناس او پنیر سره"
       },
       {
         "id": "55",
@@ -566,7 +674,9 @@
         "descriptionFa": "گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با پپرونی، سمارق، زیتون سیاه، ساس گوجه و پنیر",
         "price": 880,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/55.jpg",
-        "available": true
+        "available": true,
+        "namePs": "سیلانترو سټېک",
+        "descriptionPs": "مزه شوې د غوایي غوښه، پر سکرو ګریل شوې، له پپروني، مرخیړیو، تورو زیتونو، د رومي بانجانو ساس او پنیر سره"
       },
       {
         "id": "56",
@@ -576,7 +686,9 @@
         "descriptionFa": "فیله گوشت گوساله گریل‌شده روی زغال، همراه با پیاز، سمارق و ساس مخصوص",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/56.jpg",
-        "available": true
+        "available": true,
+        "namePs": "امریکایي سټېک",
+        "descriptionPs": "پر سکرو ګریل شوی د غوایي فیلې، له پیازو، مرخیړیو او ځانګړي ساس سره"
       },
       {
         "id": "57",
@@ -586,7 +698,9 @@
         "descriptionFa": "فیله گوشت گوساله مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس فلفل",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-grill-steaks/57.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو مرچ سټېک",
+        "descriptionPs": "مزه شوی د غوایي فیلې، پر سکرو ګریل شوی، له مرچ ساس سره"
       }
     ],
     "grill-chicken-steak": [
@@ -598,7 +712,9 @@
         "descriptionFa": "سینه مرغ بدون استخوان، مزه‌دارشده و مغزدار با سمارق، پنیر و سبزیجات معطر، همراه با ساس خامه‌ای پنیر",
         "price": 900,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/58.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی چرګ سټېک",
+        "descriptionPs": "د چرګ مزه شوې بې هډوکو سینه، له مرخیړیو، پنیر او خوشبویه بوټو څخه ډکه، د پنیر له کریمي ساس سره"
       },
       {
         "id": "59",
@@ -608,7 +724,9 @@
         "descriptionFa": "سینه مرغ مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس سمارق و ترخون",
         "price": 750,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/59.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د مرخیړیو او ترخون چرګ سټېک",
+        "descriptionPs": "د چرګ مزه شوې سینه، پر سکرو ګریل شوې، د مرخیړیو او ترخون له ساس سره"
       },
       {
         "id": "60",
@@ -618,7 +736,9 @@
         "descriptionFa": "سینه مرغ گریل‌شده، همراه با پیاز، سمارق و ساس مخصوص",
         "price": 750,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/60.jpg",
-        "available": true
+        "available": true,
+        "namePs": "امریکایي چرګ سټېک",
+        "descriptionPs": "د چرګ ګریل شوې سینه، له پیازو، مرخیړیو او ځانګړي ساس سره"
       },
       {
         "id": "61",
@@ -628,7 +748,9 @@
         "descriptionFa": "سینه مرغ گریل‌شده روی زغال، همراه با ساس خامه‌ای سمارق، آناناس گریل‌شده و پنیر",
         "price": 800,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/61.jpg",
-        "available": true
+        "available": true,
+        "namePs": "هاوایي چرګ سټېک",
+        "descriptionPs": "د چرګ سینه، پر سکرو ګریل شوې، د مرخیړیو له کریمي ساس، ګریل شوي اناناس او پنیر سره"
       },
       {
         "id": "62",
@@ -638,7 +760,9 @@
         "descriptionFa": "سینه مرغ گریل‌شده و مزه‌دارشده، همراه با مرچ دلمه‌ای، زیتون سیاه و ساس خامه‌ای پنیر",
         "price": 800,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/62.jpg",
-        "available": true
+        "available": true,
+        "namePs": "فلوریډا فایر چرګ سټېک",
+        "descriptionPs": "د چرګ مزه شوې او ګریل شوې سینه، له دلمه مرچو، تورو زیتونو او د پنیر کریمي ساس سره"
       },
       {
         "id": "63",
@@ -648,7 +772,9 @@
         "descriptionFa": "سینه مرغ گریل‌شده روی زغال، همراه با ساس فلفل سیاه",
         "price": 750,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/63.jpg",
-        "available": true
+        "available": true,
+        "namePs": "نیویارک چرګ سټېک",
+        "descriptionPs": "د چرګ سینه، پر سکرو ګریل شوې، د دانه مرچو له ساس سره"
       },
       {
         "id": "64",
@@ -658,7 +784,9 @@
         "descriptionFa": "سینه مرغ مزه‌دارشده و گریل‌شده روی زغال، همراه با ساس گوجه، زیتون سیاه، سمارق، پپرونی و پنیر",
         "price": 780,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/grill-chicken-steak/64.jpg",
-        "available": true
+        "available": true,
+        "namePs": "سیلانترو چرګ سټېک",
+        "descriptionPs": "د چرګ مزه شوې سینه، پر سکرو ګریل شوې، د رومي بانجانو له ساس، تورو زیتونو، مرخیړیو، پپروني او پنیر سره"
       }
     ],
     "chicago-pizza": [
@@ -687,7 +815,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/65.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړې پیزا",
+        "descriptionPs": "د پیزا پر خمیر د غوایي بریانه غوښه، ګریل شوی چرګ، الفریدو چرګ، ساسج، مرخیړي، دلمه مرچ او پنیر"
       },
       {
         "id": "66",
@@ -714,7 +844,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/66.jpg",
-        "available": true
+        "available": true,
+        "namePs": "جمیکایي پیزا",
+        "descriptionPs": "د پیزا پر خمیر جمیکایي چرګ، تور زیتون، خواږه جوار، د پیزا ساس او پنیر"
       },
       {
         "id": "67",
@@ -741,7 +873,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/67.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د کریمي چرګ پیزا",
+        "descriptionPs": "د پیزا پر خمیر کریمي چرګ، تور زیتون، دلمه مرچ، پیاز، کریمي ساس او پنیر"
       },
       {
         "id": "68",
@@ -768,7 +902,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/68.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د بریانې غوښې پیزا",
+        "descriptionPs": "د پیزا پر خمیر د غوایي بریانه غوښه، مرخیړي، تور زیتون، هالاپینو، د پیزا ساس او پنیر"
       },
       {
         "id": "69",
@@ -795,7 +931,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/69.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د ګډو خوندونو پیزا",
+        "descriptionPs": "ستاسو په خوښه په یوه پیزا کې هر څلور خوندونه"
       },
       {
         "id": "70",
@@ -822,7 +960,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/70.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د پپروني او پنیر پیزا",
+        "descriptionPs": "د پیزا پر خمیر د پیزا ساس، پپروني، تور زیتون، دلمه مرچ، پیاز او پنیر"
       },
       {
         "id": "71",
@@ -849,7 +989,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/71.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د پنیر پیزا",
+        "descriptionPs": "د پیزا پر خمیر د پیزا ساس، پنیر او خوشبویه بوټي"
       },
       {
         "id": "72",
@@ -876,7 +1018,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/72.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د سبزیو پیزا",
+        "descriptionPs": "د پیزا پر خمیر رومي بانجان، دلمه مرچ، مرخیړي، تور زیتون، خواږه جوار، هالاپینو، د پیزا ساس او پنیر"
       },
       {
         "id": "73",
@@ -899,7 +1043,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/73.jpg",
-        "available": true
+        "available": true,
+        "namePs": "کراون کرسټ پیزا — یوازې پنډ خمیر",
+        "descriptionPs": "خوندوره پیزا له ګریل شوي چرګ، پیازو، دلمه مرچو او ځانګړي ساس سره"
       },
       {
         "id": "74",
@@ -926,7 +1072,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/74.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د باربیکیو چرګ پیزا",
+        "descriptionPs": "د پیزا پر خمیر چرګ، پیاز، دلمه مرچ، تور زیتون، خواږه جوار او پنیر"
       },
       {
         "id": "75",
@@ -949,7 +1097,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/75.jpg",
-        "available": true
+        "available": true,
+        "namePs": "سټفډ کرسټ پیزا — یوازې پنډ خمیر",
+        "descriptionPs": "د پیزا پر خمیر پنیر، چرګ، دلمه مرچ، پیاز، شنه زیتون، ساسج او ځانګړی ساس"
       },
       {
         "id": "76",
@@ -976,7 +1126,9 @@
           }
         ],
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/chicago-pizza/76.jpg",
-        "available": true
+        "available": true,
+        "namePs": "هاوایي پیزا",
+        "descriptionPs": "د پیزا پر خمیر چرګ، پنیر، پیاز، دلمه مرچ، تور زیتون او اناناس"
       }
     ],
     "fish-corner": [
@@ -988,7 +1140,9 @@
         "descriptionFa": "فیله ماهی ترد و سرخ‌شده، همراه با ساس تارتار و لیموی تازه",
         "price": 550,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/77.jpg",
-        "available": true
+        "available": true,
+        "namePs": "کب او چپس",
+        "descriptionPs": "د کب کرکر سره شوی فیلې، له تارتار ساس او تازه لیمو سره"
       },
       {
         "id": "78",
@@ -998,7 +1152,9 @@
         "descriptionFa": "ماهی مزه‌دارشده و گریل‌شده، همراه با ساس کره و لیمو و لیموی تازه",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/78.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړی ګریل شوی کب",
+        "descriptionPs": "مزه شوی او ګریل شوی کب، د لیمو او کوچو له ساس او تازه لیمو سره"
       },
       {
         "id": "79",
@@ -1008,7 +1164,9 @@
         "descriptionFa": "فیله ماهی گریل‌شده، همراه با ساس ترش و لذیذ سمارق",
         "price": 790,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/79.jpg",
-        "available": true
+        "available": true,
+        "namePs": "سیلانترو ګریل شوی کب",
+        "descriptionPs": "د کب ګریل شوی فیلې، د مرخیړیو له تروش ساس سره"
       },
       {
         "id": "80",
@@ -1018,7 +1176,9 @@
         "descriptionFa": "فیله ماهی گریل‌شده، مزه‌دارشده با ادویه‌های معطر تندوری",
         "price": 900,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/80.jpg",
-        "available": true
+        "available": true,
+        "namePs": "تنوري کب",
+        "descriptionPs": "د کب ګریل شوی فیلې، په خوشبویه تنوري مسالو مزه شوی"
       },
       {
         "id": "81",
@@ -1028,7 +1188,9 @@
         "descriptionFa": "ماهی مزه‌دارشده و پخته‌شده در تنور، همراه با مرچ دلمه‌ای، زیتون سیاه، ساس گوجه و پنیر",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/81.jpg",
-        "available": true
+        "available": true,
+        "namePs": "په داش کې پوخ شوی کب",
+        "descriptionPs": "مزه شوی او په داش کې پوخ شوی کب، له دلمه مرچو، تورو زیتونو، د رومي بانجانو ساس او پنیر سره"
       },
       {
         "id": "82",
@@ -1038,7 +1200,9 @@
         "descriptionFa": "فیله ماهی مزه‌دارشده، همراه با ساس تارتار و چپس",
         "price": 650,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/fish-corner/82.jpg",
-        "available": true
+        "available": true,
+        "namePs": "په کوچو کې سره شوی کب",
+        "descriptionPs": "د کب مزه شوی فیلې، له تارتار ساس او چپس سره"
       }
     ],
     "pasta": [
@@ -1050,7 +1214,9 @@
         "descriptionFa": "سینه مرغ گریل‌شده با گوجه خشک‌شده، زیتون سبز، زیتون سیاه و روغن زیتون، همراه با پاستای فتوچینی",
         "price": 550,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/83.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د شیکاګو ځانګړې پاستا",
+        "descriptionPs": "د چرګ ګریل شوې سینه، له لمر وچو رومي بانجانو، شنو او تورو زیتونو او زیتون تېلو سره پخه شوې، له فېټوچیني پاستا سره"
       },
       {
         "id": "84",
@@ -1060,7 +1226,9 @@
         "descriptionFa": "ماکارونی با برش‌های سینه مرغ، زیتون سیاه، مرچ دلمه‌ای و گوجه، مخلوط شده با ساس و روی آن پنیر و ساسچ",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/84.jpg",
-        "available": true
+        "available": true,
+        "namePs": "امریکایي په داش کې پخه شوې مکروني",
+        "descriptionPs": "مکروني، د چرګ د سینې ټوټې، تور زیتون، دلمه مرچ او رومي بانجان په ساس کې، پر سر یې پنیر او ساسج"
       },
       {
         "id": "85",
@@ -1070,7 +1238,9 @@
         "descriptionFa": "پاستای پنه با مرغ گریل‌شده، مخلوط شده با ساس سیر و سمارق",
         "price": 790,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/85.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د هوږې، چرګ او مرخیړیو پاستا",
+        "descriptionPs": "پېنې پاستا او ګریل شوی چرګ، د هوږې او مرخیړیو په ساس کې"
       },
       {
         "id": "86",
@@ -1080,7 +1250,9 @@
         "descriptionFa": "اسپاگتی با ساس خوش‌طعم گوجه و کوفته‌قلقلی",
         "price": 900,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/86.jpg",
-        "available": true
+        "available": true,
+        "namePs": "سپاګېټي بولونیز",
+        "descriptionPs": "سپاګېټي د رومي بانجانو او د غوښې د ګولیو په خوندور ساس کې"
       },
       {
         "id": "87",
@@ -1090,7 +1262,9 @@
         "descriptionFa": "ورقه‌های نازک لازانیا با مرغ و ساس خامه‌ای گوجه، همراه با سمارق، زیتون سیاه و پنیر",
         "price": 850,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/87.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ لازانیا",
+        "descriptionPs": "د لازانیا نرۍ پاڼې، چرګ او د رومي بانجانو کریمي ساس، پر سر یې مرخیړي، تور زیتون او پنیر"
       },
       {
         "id": "88",
@@ -1100,7 +1274,9 @@
         "descriptionFa": "پاستای فتوچینی آلفردو با مرغ و ساس خامه‌ای، روی آن پنیر و مرغ",
         "price": 650,
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/pasta/88.jpg",
-        "available": true
+        "available": true,
+        "namePs": "د چرګ الفریدو په داش کې پخه شوې پاستا",
+        "descriptionPs": "فېټوچیني الفریدو پاستا له چرګ او کریمي ساس سره پخه شوې، پر سر یې پنیر او چرګ"
       }
     ],
     "hot-bar": [
@@ -1110,7 +1286,8 @@
         "nameFa": "اسپرسو ۱۰۰٪ عربیکا",
         "price": 170,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/01.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/01.jpg",
+        "namePs": "اېسپرېسو ۱۰۰٪ عربیکا"
       },
       {
         "id": "02",
@@ -1118,7 +1295,8 @@
         "nameFa": "اسپرسو دبل",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/02.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/02.jpg",
+        "namePs": "ډبل اېسپرېسو"
       },
       {
         "id": "03",
@@ -1126,7 +1304,8 @@
         "nameFa": "اسپرسو سینگل",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/03.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/03.jpg",
+        "namePs": "سنګل اېسپرېسو"
       },
       {
         "id": "04",
@@ -1134,7 +1313,8 @@
         "nameFa": "امریکانو ۱۰۰٪ عربیکا",
         "price": 130,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/04.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/04.jpg",
+        "namePs": "امریکانو ۱۰۰٪ عربیکا"
       },
       {
         "id": "05",
@@ -1142,7 +1322,8 @@
         "nameFa": "امریکانو",
         "price": 110,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/05.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/05.jpg",
+        "namePs": "امریکانو"
       },
       {
         "id": "06",
@@ -1150,7 +1331,8 @@
         "nameFa": "لاته",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/06.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/06.jpg",
+        "namePs": "لاتې"
       },
       {
         "id": "07",
@@ -1158,7 +1340,8 @@
         "nameFa": "کاپوچینو",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/07.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/07.jpg",
+        "namePs": "کاپوچینو"
       },
       {
         "id": "08",
@@ -1166,7 +1349,8 @@
         "nameFa": "کارامل ماکیاتو",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/08.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/08.jpg",
+        "namePs": "کارامل ماکیاتو"
       },
       {
         "id": "09",
@@ -1174,7 +1358,8 @@
         "nameFa": "آفوگاتو",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/09.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/09.jpg",
+        "namePs": "افوګاتو"
       },
       {
         "id": "10",
@@ -1182,7 +1367,8 @@
         "nameFa": "موکا لاته",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/10.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/10.jpg",
+        "namePs": "موکا لاتې"
       },
       {
         "id": "11",
@@ -1190,7 +1376,8 @@
         "nameFa": "ماچا",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/11.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/11.jpg",
+        "namePs": "ماچا"
       },
       {
         "id": "12",
@@ -1198,7 +1385,8 @@
         "nameFa": "چاکلیت گرم",
         "price": 220,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/12.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/12.jpg",
+        "namePs": "ګرم چاکلېټ"
       },
       {
         "id": "13",
@@ -1206,7 +1394,8 @@
         "nameFa": "چاکلیت سفید",
         "price": 220,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/13.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/13.jpg",
+        "namePs": "سپین چاکلېټ"
       },
       {
         "id": "14",
@@ -1214,7 +1403,8 @@
         "nameFa": "چای کَدَک",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/14.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/14.jpg",
+        "namePs": "کړک چای"
       },
       {
         "id": "15",
@@ -1222,7 +1412,8 @@
         "nameFa": "چای ماسالا",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/15.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/15.jpg",
+        "namePs": "مساله چای"
       },
       {
         "id": "16",
@@ -1230,7 +1421,8 @@
         "nameFa": "چای سیاه",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/16.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/16.jpg",
+        "namePs": "تور چای"
       },
       {
         "id": "17",
@@ -1238,7 +1430,8 @@
         "nameFa": "چای سبز",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/17.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/17.jpg",
+        "namePs": "شین چای"
       },
       {
         "id": "18",
@@ -1246,7 +1439,8 @@
         "nameFa": "چای زعفرانی",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/18.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/18.jpg",
+        "namePs": "د زعفرانو چای"
       },
       {
         "id": "19",
@@ -1254,7 +1448,8 @@
         "nameFa": "چای مراکشی",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/19.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/19.jpg",
+        "namePs": "مراکشي چای"
       },
       {
         "id": "20",
@@ -1262,7 +1457,8 @@
         "nameFa": "چای سلامتی (تقویت‌کننده سیستم ایمنی)",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/20.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/20.jpg",
+        "namePs": "د روغتیا چای (د معافیت پیاوړی کوونکی)"
       },
       {
         "id": "21",
@@ -1270,7 +1466,8 @@
         "nameFa": "چای مخصوص لیمو و نعناع",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/21.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/21.jpg",
+        "namePs": "د لیمو او نعناع ځانګړی چای"
       },
       {
         "id": "22",
@@ -1278,7 +1475,8 @@
         "nameFa": "چای صحی",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/22.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/22.jpg",
+        "namePs": "روغتیایي چای"
       },
       {
         "id": "23",
@@ -1286,7 +1484,8 @@
         "nameFa": "چای گیاهی متعادل",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/23.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/hot-bar/23.jpg",
+        "namePs": "د بوټو متوازن چای"
       }
     ],
     "cold-bar": [
@@ -1296,7 +1495,8 @@
         "nameFa": "اسپرسو یخی ۱۰۰٪ عربیکا",
         "price": 170,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/01.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/01.jpg",
+        "namePs": "یخ اېسپرېسو ۱۰۰٪ عربیکا"
       },
       {
         "id": "02",
@@ -1304,7 +1504,8 @@
         "nameFa": "اسپرسو یخی دبل",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/02.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/02.jpg",
+        "namePs": "یخ ډبل اېسپرېسو"
       },
       {
         "id": "03",
@@ -1312,7 +1513,8 @@
         "nameFa": "اسپرسو یخی سینگل",
         "price": 100,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/03.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/03.jpg",
+        "namePs": "یخ سنګل اېسپرېسو"
       },
       {
         "id": "04",
@@ -1320,7 +1522,8 @@
         "nameFa": "امریکانوی یخی ۱۰۰٪ عربیکا",
         "price": 130,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/04.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/04.jpg",
+        "namePs": "یخ امریکانو ۱۰۰٪ عربیکا"
       },
       {
         "id": "05",
@@ -1328,7 +1531,8 @@
         "nameFa": "امریکانوی یخی",
         "price": 110,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/05.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/05.jpg",
+        "namePs": "یخ امریکانو"
       },
       {
         "id": "06",
@@ -1336,7 +1540,8 @@
         "nameFa": "لاته یخی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/06.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/06.jpg",
+        "namePs": "یخه لاتې"
       },
       {
         "id": "07",
@@ -1344,7 +1549,8 @@
         "nameFa": "کاپوچینوی یخی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/07.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/07.jpg",
+        "namePs": "یخ کاپوچینو"
       },
       {
         "id": "08",
@@ -1352,7 +1558,8 @@
         "nameFa": "کارامل ماکیاتوی یخی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/08.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/08.jpg",
+        "namePs": "یخ کارامل ماکیاتو"
       },
       {
         "id": "09",
@@ -1360,7 +1567,8 @@
         "nameFa": "موکا لاته یخی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/09.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/09.jpg",
+        "namePs": "یخه موکا لاتې"
       },
       {
         "id": "10",
@@ -1368,7 +1576,8 @@
         "nameFa": "ماچای یخی",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/10.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/10.jpg",
+        "namePs": "یخه ماچا"
       },
       {
         "id": "11",
@@ -1376,7 +1585,8 @@
         "nameFa": "میامی",
         "price": 280,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/11.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/11.jpg",
+        "namePs": "میامي"
       },
       {
         "id": "12",
@@ -1384,7 +1594,8 @@
         "nameFa": "چری بری",
         "price": 300,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/12.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/12.jpg",
+        "namePs": "چېري بېري"
       },
       {
         "id": "13",
@@ -1392,7 +1603,8 @@
         "nameFa": "گرین لاین",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/13.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/13.jpg",
+        "namePs": "ګرین لاین"
       },
       {
         "id": "14",
@@ -1400,7 +1612,8 @@
         "nameFa": "اسموتی استوایی",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/14.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/14.jpg",
+        "namePs": "د استوایي مېوو سموتي"
       },
       {
         "id": "15",
@@ -1408,7 +1621,8 @@
         "nameFa": "لیموناد",
         "price": 150,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/15.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/15.jpg",
+        "namePs": "لیموناد"
       },
       {
         "id": "16",
@@ -1416,7 +1630,8 @@
         "nameFa": "موهیتو",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/16.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/16.jpg",
+        "namePs": "موهیتو"
       },
       {
         "id": "17",
@@ -1424,7 +1639,8 @@
         "nameFa": "موهیتو زنجبیلی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/17.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/17.jpg",
+        "namePs": "د ادرکو موهیتو"
       },
       {
         "id": "18",
@@ -1432,7 +1648,8 @@
         "nameFa": "موهیتو سرخ",
         "price": 230,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/18.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/18.jpg",
+        "namePs": "سور موهیتو"
       },
       {
         "id": "19",
@@ -1440,7 +1657,8 @@
         "nameFa": "پینک گام",
         "price": 230,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/19.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/19.jpg",
+        "namePs": "پینک ګم"
       },
       {
         "id": "20",
@@ -1448,7 +1666,8 @@
         "nameFa": "لیموی طلایی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/20.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/20.jpg",
+        "namePs": "ګولډن لېمن"
       },
       {
         "id": "21",
@@ -1456,7 +1675,8 @@
         "nameFa": "نوشیدنی هاوایی",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/21.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/21.jpg",
+        "namePs": "هاوایي څښاک"
       },
       {
         "id": "22",
@@ -1464,7 +1684,8 @@
         "nameFa": "نوشیدنی رد لاین",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/22.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/22.jpg",
+        "namePs": "رېډ لاین څښاک"
       },
       {
         "id": "23",
@@ -1472,7 +1693,8 @@
         "nameFa": "اقیانوس سیاه",
         "price": 180,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/23.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/23.jpg",
+        "namePs": "بلېک اوشن"
       },
       {
         "id": "24",
@@ -1480,7 +1702,8 @@
         "nameFa": "سودای قهوه و نعناع",
         "price": 180,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/24.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/24.jpg",
+        "namePs": "د قهوې او نعناع سوډا"
       },
       {
         "id": "25",
@@ -1488,7 +1711,8 @@
         "nameFa": "هیبیسکس",
         "price": 300,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/25.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/25.jpg",
+        "namePs": "هیبسکس"
       },
       {
         "id": "26",
@@ -1496,7 +1720,8 @@
         "nameFa": "شیک وانیل",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/26.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/26.jpg",
+        "namePs": "د وانیلا شېک"
       },
       {
         "id": "27",
@@ -1504,7 +1729,8 @@
         "nameFa": "شیک نوتلا",
         "price": 220,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/27.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/27.jpg",
+        "namePs": "د نوټېلا شېک"
       },
       {
         "id": "28",
@@ -1512,7 +1738,8 @@
         "nameFa": "میلک‌شیک لوتوس بیسکوف",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/28.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/28.jpg",
+        "namePs": "د لوټس بیسکوف میلک شېک"
       },
       {
         "id": "29",
@@ -1520,7 +1747,8 @@
         "nameFa": "شیک ممپلی",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/29.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/29.jpg",
+        "namePs": "د ممپلیو د کوچو شېک"
       },
       {
         "id": "30",
@@ -1528,7 +1756,8 @@
         "nameFa": "شیک اسپرسو",
         "price": 230,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/30.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/30.jpg",
+        "namePs": "د اېسپرېسو شېک"
       },
       {
         "id": "31",
@@ -1536,7 +1765,8 @@
         "nameFa": "شیک آووکادو و ناریل",
         "price": 350,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/31.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/31.jpg",
+        "namePs": "د اېوکاډو او ناریال شېک"
       },
       {
         "id": "32",
@@ -1544,7 +1774,8 @@
         "nameFa": "شیک توت‌ زمینی",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/32.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/32.jpg",
+        "namePs": "د ځمکنیو توتو شېک"
       },
       {
         "id": "33",
@@ -1552,7 +1783,8 @@
         "nameFa": "شیک بری",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/33.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/33.jpg",
+        "namePs": "د بېري شېک"
       },
       {
         "id": "34",
@@ -1560,7 +1792,8 @@
         "nameFa": "شیک خربوزه",
         "price": 230,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/34.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/34.jpg",
+        "namePs": "د خټکي شېک"
       },
       {
         "id": "35",
@@ -1568,7 +1801,8 @@
         "nameFa": "چوس کیله",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/35.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/35.jpg",
+        "namePs": "د کېلې جوس"
       },
       {
         "id": "36",
@@ -1576,7 +1810,8 @@
         "nameFa": "چوس پرتقال",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/36.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/36.jpg",
+        "namePs": "د مالټې جوس"
       },
       {
         "id": "37",
@@ -1584,7 +1819,8 @@
         "nameFa": "چوس تربوز",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/37.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/37.jpg",
+        "namePs": "د هندواڼې جوس"
       },
       {
         "id": "38",
@@ -1592,7 +1828,8 @@
         "nameFa": "چوس خربوزه",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/38.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/38.jpg",
+        "namePs": "د خټکي جوس"
       },
       {
         "id": "39",
@@ -1600,7 +1837,8 @@
         "nameFa": "چوس ام",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/39.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/39.jpg",
+        "namePs": "د ام جوس"
       },
       {
         "id": "40",
@@ -1608,7 +1846,8 @@
         "nameFa": "چوس سیب",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/40.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/40.jpg",
+        "namePs": "د مڼې جوس"
       },
       {
         "id": "41",
@@ -1616,7 +1855,8 @@
         "nameFa": "چوس انار",
         "price": 200,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/41.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/41.jpg",
+        "namePs": "د انارو جوس"
       },
       {
         "id": "42",
@@ -1624,7 +1864,8 @@
         "nameFa": "جوس مکس",
         "price": 250,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/42.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/42.jpg",
+        "namePs": "ګډ جوس"
       },
       {
         "id": "43",
@@ -1632,7 +1873,8 @@
         "nameFa": "آب",
         "price": 20,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/43.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/43.jpg",
+        "namePs": "اوبه"
       },
       {
         "id": "44",
@@ -1640,7 +1882,8 @@
         "nameFa": "کوکاکولا",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/44.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/44.jpg",
+        "namePs": "کوکاکولا"
       },
       {
         "id": "45",
@@ -1648,7 +1891,8 @@
         "nameFa": "فانتا",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/45.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/45.jpg",
+        "namePs": "فانټا"
       },
       {
         "id": "46",
@@ -1656,7 +1900,8 @@
         "nameFa": "پپسی",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/46.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/46.jpg",
+        "namePs": "پېپسي"
       },
       {
         "id": "47",
@@ -1664,7 +1909,8 @@
         "nameFa": "اسپرایت",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/47.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/47.jpg",
+        "namePs": "سپرایټ"
       },
       {
         "id": "48",
@@ -1672,7 +1918,8 @@
         "nameFa": "کوکاکولای لایت",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/48.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/48.jpg",
+        "namePs": "لایټ کوک"
       },
       {
         "id": "49",
@@ -1680,7 +1927,8 @@
         "nameFa": "بریز",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/49.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/49.jpg",
+        "namePs": "بریز"
       },
       {
         "id": "50",
@@ -1688,7 +1936,8 @@
         "nameFa": "مجیک",
         "price": 30,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/50.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/50.jpg",
+        "namePs": "ماجیک"
       },
       {
         "id": "51",
@@ -1696,7 +1945,8 @@
         "nameFa": "آب گازدار پریر",
         "price": 120,
         "available": true,
-        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/51.jpg"
+        "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/51.jpg",
+        "namePs": "د پېریر ګاز لرونکې اوبه"
       }
     ]
   }
