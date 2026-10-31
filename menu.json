@@ -1,5 +1,5 @@
 {
-  "menuVersion": 29,
+  "menuVersion": 30,
   "categories": {
     "starters": [
       {
@@ -1948,6 +1948,7 @@
         "image": "https://raw.githubusercontent.com/0dawar/chicago-menu-data/main/images/cold-bar/51.jpg",
         "namePs": "د پېریر ګاز لرونکې اوبه"
       }
-    ]
+    ],
+    "vegetarian-dishes": []
   }
 }
